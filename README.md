@@ -8,24 +8,30 @@
 -	[Misc] [If I only had a short time to study for my coding interview, these are the 15 questions I would solve](https://www.linkedin.com/posts/navdeep-singh-3aaa14161_if-i-only-had-a-short-time-to-study-for-my-activity-7312473774598012928-ZhXz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACMGebYBKY8HnG-p3doo8gpo-3Dc_TXuHFI)
 - [Misc] [BitFlip’s Leetcode Pattern Recognition Cheat Sheet](https://github.com/bitflipdev/guides/blob/main/Leetcode%20Pattern%20Recognition%20Guide.pdf)
 
-## 1.	Fast and Slow Pointers
-Used in linked list or array problems, this pattern is ideal for detecting cycles or finding a midpoint.
--	141 Linked List Cycle
--	202 Happy Number
--	287 Find the Duplicate Number
--	142 Linked List Cycle II
--	19 Remove nth Node from the End of List
--	243 Palindrome Linked List
+## 1. Core Array
+- [26: Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
+- [189: Rotate Array](https://leetcode.com/problems/rotate-array/description)
+- [121: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description)
+- [1: Two Sum](https://leetcode.com/problems/two-sum/description) (HashMap involved)
+- [169: Majority Element (>n/2 times)](https://leetcode.com/problems/majority-element/description) (Moore's Voting Algorithm)
+- [229: Majority Element II (>n/3 times)](https://leetcode.com/problems/majority-element-ii/description) (Moore's Voting Algorithm)
+- [53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description) (Kadane's Algorithm)
+- [152: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description) (Kadane's Algorithm)
+  
+## 2. String
 
-## 2.	Overlapping Intervals / Merge Intervals
-Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
--	56 Merge Intervals (Basic Merge)
--	57 Insert Interval (Interval Insertion)
--	435 Non-overlapping intervals
--	731 My Calendar II
--	452 Minimum Number of Arrows to Burst Balloons
+## 5.	Two Pointers
+This technique is commonly applied on sorted arrays or linked lists to find pairs or reverse elements. It is an ideal strategy when managing elements with pair relationships.
+-	167 Two Sum II - Input Array is Sorted
+-	15 3 Sum
+-	11 Container with most water
+-	75 Sort Colors (Dutch National Flag)
+-	31 Next Permutation
+-	948 Bag of Tokens
+-	11 Container with Most Water
+-	42 Trapping Rain Water
 
-## 3.	Prefix Sum
+## 3.	Prefix Sum (Hashing involved)
 Prefix Sums/Products are techniques that store cumulative sums or products up to each index, allowing for quick subarray range queries.
 -	Longest subarray with sum K (array having Positive and Negative elements)
 -	303 Range Sum Query - Immutable
@@ -36,6 +42,75 @@ Prefix Sums/Products are techniques that store cumulative sums or products up to
 -	152 Maximum Product Subarray
 -	2270 Number of Ways to Split Array
 -	304 Range Sum Query 2D
+
+## 8.	Matrix Traversal
+Problems involving 2D arrays (matrices) are often solved using row-column traversal or manipulation based on matrix properties.
+-	733 Flood Fill
+-	200 Number of Islands
+-	130 Surrounded Regions
+-	48 Rotate Image
+-	54 Spiral Matrix
+-	73 Set Matrix Zeroes
+-	289 Game of Life
+
+## 2.	Overlapping Intervals / Merge Intervals
+Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
+-	56 Merge Intervals (Basic Merge)
+-	57 Insert Interval (Interval Insertion)
+-	435 Non-overlapping intervals
+-	731 My Calendar II
+-	452 Minimum Number of Arrows to Burst Balloons
+
+## 12.	Modified Binary Search
+An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
+-	33 Search in Rotated Sorted Array
+-	153 Find Minimum in Rotated Sorted Array
+-	240 Search a 2D Matrix II
+-	875 Koko Eating Bananas
+-	162 Find Peak Element
+-	540 Single Element in a Sorted Array
+-	1870 Minimum Speed to Arrive on Time
+-	1011 Capacity to Ship Packages Within 'd' Days
+-	1095 Find in Mountain Array
+-	4 Median of Two Sorted Arrays
+
+## 1.	Fast and Slow Pointers
+Used in linked list or array problems, this pattern is ideal for detecting cycles or finding a midpoint.
+-	141 Linked List Cycle
+-	202 Happy Number
+-	287 Find the Duplicate Number
+-	142 Linked List Cycle II
+-	19 Remove nth Node from the End of List
+-	243 Palindrome Linked List
+
+## 7.	Linked List in-place reversal
+Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 206. Reverse Linked List
+-	92 Reverse Linked List II
+-	24 Swap Nodes in Pairs
+-	206 Reverse Linked List
+-	25 Reverse Nodes in k-Group
+-	24 Swap Nodes in Pairs
+
+## 11.	Backtracking / Recursion
+Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.
+- 46 Permutations
+-	78 Subsets
+-	51 N-Queens
+-	Permutation II
+-	39 Combination Sum
+-	22 Generate Parenthesis
+-	51 N-Queens
+-	37 Sudoku Solver
+-	131 Palindrome Partitioning
+-	79 Word Search
+
+## 13.	Bitwise XOR
+Description: XOR is a powerful bitwise operator that can solve problems like finding single numbers or efficiently pairing elements.
+-	Missing Number
+-	Single Number II
+-	Single Number III
+-	Find the Original Array of Prefix XOR
+-	XOR Queries of a Subarray
 
 ## 4.	Sliding Window
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
@@ -58,41 +133,12 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	904 Fruits Into Baskets
 -	1248 Count Number of Nice Subarrays
 
-## 5.	Two Pointers
-This technique is commonly applied on sorted arrays or linked lists to find pairs or reverse elements. It is an ideal strategy when managing elements with pair relationships.
--	167 Two Sum II - Input Array is Sorted
--	15 3 Sum
--	11 Container with most water
--	75 Sort Colors (Dutch National Flag)
--	31 Next Permutation
--	948 Bag of Tokens
--	11 Container with Most Water
--	42 Trapping Rain Water
-
 ## 6.	Cyclic Sort (Index-Based)
 Description: Cyclic sort is an efficient approach to solve problems where numbers are consecutively ordered and must be placed in the correct index.
 -	Missing Number
 -	Find Missing Numbers
 -	Set Mismatch
 -	First Missing Positive
-
-## 7.	Linked List in-place reversal
-Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 206. Reverse Linked List
--	92 Reverse Linked List II
--	24 Swap Nodes in Pairs
--	206 Reverse Linked List
--	25 Reverse Nodes in k-Group
--	24 Swap Nodes in Pairs
-
-## 8.	Matrix Traversal
-Problems involving 2D arrays (matrices) are often solved using row-column traversal or manipulation based on matrix properties.
--	733 Flood Fill
--	200 Number of Islands
--	130 Surrounded Regions
--	48 Rotate Image
--	54 Spiral Matrix
--	73 Set Matrix Zeroes
--	289 Game of Life
 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
@@ -108,39 +154,6 @@ Description: DFS explores as far as possible along a branch before backtracking.
 -	DFS from Boundary: Number of Enclaves
 -	Shortest Time: Time Needed to Inform All Employees
 -	Cyclic Find: Find Eventual Safe States
-
-## 11.	Backtracking
-Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.46. Permutations
--	78 Subsets
--	51 N-Queens
--	Permutation II
--	39 Combination Sum
--	22 Generate Parenthesis
--	51 N-Queens
--	37 Sudoku Solver
--	131 Palindrome Partitioning
--	79 Word Search
-
-## 12.	Modified Binary Search
-An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
--	33 Search in Rotated Sorted Array
--	153 Find Minimum in Rotated Sorted Array
--	240 Search a 2D Matrix II
--	875 Koko Eating Bananas
--	162 Find Peak Element
--	540 Single Element in a Sorted Array
--	1870 Minimum Speed to Arrive on Time
--	1011 Capacity to Ship Packages Within 'd' Days
--	1095 Find in Mountain Array
--	4 Median of Two Sorted Arrays
-
-## 13.	Bitwise XOR
-Description: XOR is a powerful bitwise operator that can solve problems like finding single numbers or efficiently pairing elements.
--	Missing Number
--	Single Number II
--	Single Number III
--	Find the Original Array of Prefix XOR
--	XOR Queries of a Subarray
 
 ## 14.	Top ‘K’ Elements OR min/max Heap
 This pattern is beneficial for problems that require identifying the top or bottom 'k' elements in a set. 
