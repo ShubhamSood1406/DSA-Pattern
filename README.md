@@ -15,69 +15,76 @@
 - [26: Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
 - [189: Rotate Array](https://leetcode.com/problems/rotate-array/description)
 - [121: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description)
-- [1: Two Sum](https://leetcode.com/problems/two-sum/description) (HashMap involved)
+- [1: Two Sum](https://leetcode.com/problems/two-sum/description) (Hash Table)
 - [169: Majority Element (>n/2 times)](https://leetcode.com/problems/majority-element/description) (Moore's Voting Algorithm)
 - [229: Majority Element II (>n/3 times)](https://leetcode.com/problems/majority-element-ii/description) (Moore's Voting Algorithm)
 - [53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description) (Kadane's Algorithm)
 - [152: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description) (Kadane's Algorithm)
   
 ## 2. String
+- [151: Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) (Two Pointers)
+- [14: Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- [205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) (Hash Table)
+- [796: Rotate String](https://leetcode.com/problems/rotate-string/description/)
+- [242: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) (Hash Table)
+- [451: Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) (Hash Table, Sorting)
+- [13: Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) (Hash Table)
 
-## 5.	Two Pointers
+## 3.	Two Pointers
 This technique is commonly applied on sorted arrays or linked lists to find pairs or reverse elements. It is an ideal strategy when managing elements with pair relationships.
--	167 Two Sum II - Input Array is Sorted
--	15 3 Sum
--	11 Container with most water
--	75 Sort Colors (Dutch National Flag)
--	31 Next Permutation
--	948 Bag of Tokens
--	11 Container with Most Water
--	42 Trapping Rain Water
+-	[167: Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [75: Sort Colors (Dutch National Flag)](https://leetcode.com/problems/sort-colors/description/)
+- [31: Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+-	[15: 3 Sum](https://leetcode.com/problems/3sum/description/)
+-	11: Container with most water
+-	948: Bag of Tokens
+-	42: Trapping Rain Water
 
-## 3.	Prefix Sum (Hashing involved)
+## 4.	Prefix Sum (Hash Table involved)
 Prefix Sums/Products are techniques that store cumulative sums or products up to each index, allowing for quick subarray range queries.
--	Longest subarray with sum K (array having Positive and Negative elements)
--	303 Range Sum Query - Immutable
--	525 Contiguous Array
--	560 Subarray Sum Equals K
--	1991 Find the Middle Index in Array
--	238 Product of Array Except Self
--	152 Maximum Product Subarray
--	2270 Number of Ways to Split Array
--	304 Range Sum Query 2D
+-	[Longest subarray with sum K (array having Positive and Negative elements)](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/)
+-	[560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+-	[525: Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
+-	303: Range Sum Query - Immutable
+-	1991: Find the Middle Index in Array
+-	238: Product of Array Except Self
+-	2270: Number of Ways to Split Array
+-	304: Range Sum Query 2D
 
-## 8.	Matrix Traversal
+## 5.	Matrix Traversal
 Problems involving 2D arrays (matrices) are often solved using row-column traversal or manipulation based on matrix properties.
--	733 Flood Fill
--	200 Number of Islands
--	130 Surrounded Regions
--	48 Rotate Image
--	54 Spiral Matrix
--	73 Set Matrix Zeroes
--	289 Game of Life
+-	[48: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+-	[54: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+-	[73: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+-	733: Flood Fill
+-	200: Number of Islands
+-	130: Surrounded Regions
+-	289: Game of Life
 
-## 2.	Overlapping Intervals / Merge Intervals
+## 6.	Merge Intervals / Overlapping Intervals
 Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
--	56 Merge Intervals (Basic Merge)
--	57 Insert Interval (Interval Insertion)
--	435 Non-overlapping intervals
--	731 My Calendar II
--	452 Minimum Number of Arrows to Burst Balloons
+-	[56: Merge Intervals (Basic Merge)](https://leetcode.com/problems/merge-intervals/description/)
+-	57: Insert Interval (Interval Insertion)
+-	435: Non-overlapping intervals
+-	731: My Calendar II
+-	452: Minimum Number of Arrows to Burst Balloons
 
-## 12.	Modified Binary Search
+## 7.	Modified Binary Search
 An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
--	33 Search in Rotated Sorted Array
--	153 Find Minimum in Rotated Sorted Array
--	240 Search a 2D Matrix II
--	875 Koko Eating Bananas
--	162 Find Peak Element
--	540 Single Element in a Sorted Array
--	1870 Minimum Speed to Arrive on Time
--	1011 Capacity to Ship Packages Within 'd' Days
--	1095 Find in Mountain Array
--	4 Median of Two Sorted Arrays
+- [Floor and Ceil in Sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/)
+-	[33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+-	[81: Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+-	[153: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+-	[540: Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+-	[162: Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+-	[875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+-	[1011: Capacity to Ship Packages Within 'd' Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
+-	[4: Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+-	[240: Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+-	1870: Minimum Speed to Arrive on Time
+-	1095: Find in Mountain Array
 
-## 1.	Fast and Slow Pointers
+## 8.	Fast and Slow Pointers
 Used in linked list or array problems, this pattern is ideal for detecting cycles or finding a midpoint.
 -	141 Linked List Cycle
 -	202 Happy Number
