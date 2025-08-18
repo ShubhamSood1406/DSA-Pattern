@@ -8,6 +8,9 @@
 -	[Misc] [If I only had a short time to study for my coding interview, these are the 15 questions I would solve](https://www.linkedin.com/posts/navdeep-singh-3aaa14161_if-i-only-had-a-short-time-to-study-for-my-activity-7312473774598012928-ZhXz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACMGebYBKY8HnG-p3doo8gpo-3Dc_TXuHFI)
 - [Misc] [BitFlip’s Leetcode Pattern Recognition Cheat Sheet](https://github.com/bitflipdev/guides/blob/main/Leetcode%20Pattern%20Recognition%20Guide.pdf)
 
+## Practice
+- [Striver's A2Z DSA Course](http://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+
 ## 1. Core Array
 - [26: Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
 - [189: Rotate Array](https://leetcode.com/problems/rotate-array/description)
