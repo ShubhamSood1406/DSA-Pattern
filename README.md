@@ -73,7 +73,7 @@ Use this pattern to deal with overlapping intervals, helping to create a more or
 An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
 - [Floor and Ceil in Sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/)
 -	[33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
--	[81: Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+-	[81: Search in Rotated Sorted Array II (Contains Duplicate)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 -	[153: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 -	[540: Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 -	[162: Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
@@ -84,24 +84,24 @@ An adaptation of the binary search for situations where a standard binary search
 -	1870: Minimum Speed to Arrive on Time
 -	1095: Find in Mountain Array
 
-## 8.	Fast and Slow Pointers
+## 8.	Fast and Slow Pointers (Tortoise-Hare Method / Floyd's Cycle Detection Algorithm)
 Used in linked list or array problems, this pattern is ideal for detecting cycles or finding a midpoint.
--	141 Linked List Cycle
--	202 Happy Number
--	287 Find the Duplicate Number
--	142 Linked List Cycle II
--	19 Remove nth Node from the End of List
--	243 Palindrome Linked List
+- [876: Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+-	[141: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+-	[142: Linked List Cycle II (Find starting point of cycle](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+- [243: Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) (Recursion)
+-	[19: Remove nth Node from the End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+-	202: Happy Number
+-	287: Find the Duplicate Number
 
-## 7.	Linked List in-place reversal
-Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 206. Reverse Linked List
--	92 Reverse Linked List II
--	24 Swap Nodes in Pairs
--	206 Reverse Linked List
--	25 Reverse Nodes in k-Group
--	24 Swap Nodes in Pairs
+## 9.	Linked List in-place reversal
+Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 
+- [206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+-	[92: Reverse Linked List II (Reverse from position left to right)](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+-	[25: Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+-	24: Swap Nodes in Pairs
 
-## 11.	Backtracking / Recursion
+## 10.	Backtracking / Recursion
 Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.
 - 46 Permutations
 -	78 Subsets
@@ -114,7 +114,7 @@ Backtracking helps in problems where you need to explore all potential solutions
 -	131 Palindrome Partitioning
 -	79 Word Search
 
-## 13.	Bitwise XOR
+## 11.	Bitwise XOR
 Description: XOR is a powerful bitwise operator that can solve problems like finding single numbers or efficiently pairing elements.
 -	Missing Number
 -	Single Number II
@@ -354,7 +354,3 @@ Description: It involves building custom data structures to efficiently handle s
 -	Snapshot Array
 -	LRU Cache
 -	LFU Cache
-
-#### Floyd's Cycle Detection Algorithm: Ideal for finding cycles in data structures such as linked lists or arrays.
-#### Kadane’s Algorithm (Dynamic Programming): It's an optimal solution for the maximum subarray problem.
-
