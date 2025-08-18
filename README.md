@@ -103,22 +103,27 @@ Reversing a linked list in place without using extra space is key for problems t
 
 ## 10.	Backtracking / Recursion
 Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.
-- 46 Permutations
--	78 Subsets
--	51 N-Queens
--	Permutation II
--	39 Combination Sum
--	22 Generate Parenthesis
--	51 N-Queens
--	37 Sudoku Solver
--	131 Palindrome Partitioning
--	79 Word Search
+-	[22: Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
+-	[78: Subsets](https://leetcode.com/problems/subsets/description/)
+-	[39: Combination Sum (Same element may be chosen unlimited times)](https://leetcode.com/problems/combination-sum/description/)
+- [40: Combination Sum II (Each element only be used once in the combination)](https://leetcode.com/problems/combination-sum-ii/description/)
+- [90: Subsets II (Contains Duplicate)](https://leetcode.com/problems/subsets-ii/description/)
+-	[131: Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
+-	[79: Word Search](https://leetcode.com/problems/word-search/description/) (DFS)
+-	[51: N-Queens](https://leetcode.com/problems/n-queens/description/) (DFS)
+- [37: Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
+- 46: Permutations
+-	47: Permutations II
 
-## 11.	Bitwise XOR
-Description: XOR is a powerful bitwise operator that can solve problems like finding single numbers or efficiently pairing elements.
--	Missing Number
--	Single Number II
--	Single Number III
+## 11.	Bit Manipulation
+Description: Bit manipulation is a powerful technique that can solve problems like finding single numbers or efficiently pairing elements.
+- [268: Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [231: Power of Two](https://leetcode.com/problems/power-of-two/description/) (Kernighan's Algorithm)
+- [191: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) (Kernighan's Algorithm)
+-	[2220: Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
+-	[136: Single Number (Every element appears twice except for one)](https://leetcode.com/problems/single-number/description/)
+-	[137: Single Number II (Every element appears three times except for one)](https://leetcode.com/problems/single-number-ii/description/)
+-	[260: Single Number III (Exactly two elements appear only once and all the other elements appear exactly twice)](https://leetcode.com/problems/single-number-iii/description/)
 -	Find the Original Array of Prefix XOR
 -	XOR Queries of a Subarray
 
