@@ -112,8 +112,8 @@ Backtracking helps in problems where you need to explore all potential solutions
 -	[79: Word Search](https://leetcode.com/problems/word-search/description/) (DFS)
 -	[51: N-Queens](https://leetcode.com/problems/n-queens/description/) (DFS)
 - [37: Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
-- 46: Permutations
--	47: Permutations II
+- [46: Permutations](https://leetcode.com/problems/permutations/description/)
+-	[47: Permutations II](https://leetcode.com/problems/permutations-ii/description/)
 
 ## 11.	Bit Manipulation
 Description: Bit manipulation is a powerful technique that can solve problems like finding single numbers or efficiently pairing elements.
