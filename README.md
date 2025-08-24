@@ -130,17 +130,17 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 -	2433: Find the Original Array of Prefix XOR
 
 ## 12. Stack
-- [20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- [20: Valid Parentheses (Balanced Parantheses)](https://leetcode.com/problems/valid-parentheses/description/)
+- [155: Min Stack](https://leetcode.com/problems/min-stack/description/)
 ### Monotonic Stack
 A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
--	496 Next Greater Element I
--	503 Next Greater Element II
--	739 Daily Temperatures
--	84 Largest Rectangle in Histogram
--	1019 Next Greater Node in Linked List
--	901 Online Stock Span
--	962 Maximum Width Ramp
--	84 Largest Rectangle in Histogram
+-	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+-	[503 Next Greater Element II (Next Greater Elementnt in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
+-	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+-	84: Largest Rectangle in Histogram
+-	1019: Next Greater Node in Linked List
+-	901: Online Stock Span
+-	962: Maximum Width Ramp
 
 ## 4.	Sliding Window
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
