@@ -20,6 +20,8 @@
 - [229: Majority Element II (>n/3 times)](https://leetcode.com/problems/majority-element-ii/description) (Moore's Voting Algorithm)
 - [53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description) (Kadane's Algorithm)
 - [152: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description) (Kadane's Algorithm)
+- [645: Set Mismatch (Find Repeating and Missing number)](https://leetcode.com/problems/set-mismatch/description)
+- [41: First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
   
 ## 2. String
 - [151: Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) (Two Pointers)
@@ -124,8 +126,21 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 -	[136: Single Number (Every element appears twice except for one)](https://leetcode.com/problems/single-number/description/)
 -	[137: Single Number II (Every element appears three times except for one)](https://leetcode.com/problems/single-number-ii/description/)
 -	[260: Single Number III (Exactly two elements appear only once and all the other elements appear exactly twice)](https://leetcode.com/problems/single-number-iii/description/)
--	Find the Original Array of Prefix XOR
--	XOR Queries of a Subarray
+-	[1310: XOR Queries of a Subarray](https://leetcode.com/problems/xOR-queries-of-a-subarray/description/)
+-	2433: Find the Original Array of Prefix XOR
+
+## 12. Stack
+- [20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+### Monotonic Stack
+A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
+-	496 Next Greater Element I
+-	503 Next Greater Element II
+-	739 Daily Temperatures
+-	84 Largest Rectangle in Histogram
+-	1019 Next Greater Node in Linked List
+-	901 Online Stock Span
+-	962 Maximum Width Ramp
+-	84 Largest Rectangle in Histogram
 
 ## 4.	Sliding Window
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
@@ -147,13 +162,6 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	485 Max Consecutive Ones
 -	904 Fruits Into Baskets
 -	1248 Count Number of Nice Subarrays
-
-## 6.	Cyclic Sort (Index-Based)
-Description: Cyclic sort is an efficient approach to solve problems where numbers are consecutively ordered and must be placed in the correct index.
--	Missing Number
--	Find Missing Numbers
--	Set Mismatch
--	First Missing Positive
 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
@@ -190,17 +198,6 @@ Description: This pattern uses two heaps (max heap and min heap) to solve proble
 -	Find Median from Data Stream
 -	Sliding Window Median
 -	IPO
-
-## 17.	Monotonic Stack
-A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
--	496 Next Greater Element I
--	503 Next Greater Element II
--	739 Daily Temperatures
--	84 Largest Rectangle in Histogram
--	1019 Next Greater Node in Linked List
--	901 Online Stock Span
--	962 Maximum Width Ramp
--	84 Largest Rectangle in Histogram
 
 ## 18.	Trees
 ### Depth First Search
