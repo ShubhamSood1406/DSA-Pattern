@@ -38,9 +38,9 @@ This technique is commonly applied on sorted arrays or linked lists to find pair
 - [75: Sort Colors (Dutch National Flag)](https://leetcode.com/problems/sort-colors/description/)
 - [31: Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 -	[15: 3 Sum](https://leetcode.com/problems/3sum/description/)
--	11: Container with most water
+-	[42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+-	[11: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 -	948: Bag of Tokens
--	42: Trapping Rain Water
 
 ## 4.	Prefix Sum (Hash Table involved)
 Prefix Sums/Products are techniques that store cumulative sums or products up to each index, allowing for quick subarray range queries.
@@ -135,7 +135,7 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 ### Monotonic Stack
 A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
 -	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
--	[503 Next Greater Element II (Next Greater Elementnt in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
+-	[503 Next Greater Element II (Next Greater Element in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
 -	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 -	84: Largest Rectangle in Histogram
 -	1019: Next Greater Node in Linked List
