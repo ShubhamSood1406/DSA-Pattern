@@ -132,13 +132,13 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 ## 12. Stack
 - [20: Valid Parentheses (Balanced Parantheses)](https://leetcode.com/problems/valid-parentheses/description/)
 - [155: Min Stack](https://leetcode.com/problems/min-stack/description/)
+- [735: Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+-	[402: Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
 ### Monotonic Stack
 A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
 -	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 -	[503 Next Greater Element II (Next Greater Element in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
 -	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
--	[735: Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
--	[402: Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
 -	[84: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 -	1019: Next Greater Node in Linked List
 -	901: Online Stock Span
@@ -155,7 +155,6 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	567 Permutation in String
 -	2653 Sliding Subarray Beauty
 -	239 Sliding Window Maximum
-
 ### Variable Size
 -	3 Longest Substring without Repeating Characters
 -	76 Minimum Window Substring
@@ -218,7 +217,6 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	1080 Insufficient Nodes in Root to Leaf
 -	1457 Pseudo-Palindromic Paths in a Binary Tree
 -	124 Binary Tree Maximum Path Sum
-
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	102 Binary Tree Level Order Traversal
@@ -229,25 +227,21 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	623 Add One Row to Tree
 -	662 Maximum Width of Binary Tree
 -	863 All Nodes Distance K in Binary Tree
-
 ### Tree Construction
 -	105 Construct BT from Preorder and Inorder
 -	106 Construct BT from Postorder and Inorder
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
-
 ### Height Related Problems
 -	Maximum Depth of BT
 -	Balanced Binary Tree
 -	Diameter of Binary Tree
 -	Minimum Depth of BT 
-
 ### Ancestor Problem
 -	LCA of Binary Tree
 -	Maximum Difference Between Node and Ancestor
 -	LCA of Deepest Leaves
 -	Kth Ancestor of a Tree Node
-
 ### Binary Search Tree
 -	Validate BST
 -	Range Sum of BST
@@ -264,14 +258,12 @@ Description: Solve optimization problems like selecting items with the max/min v
 -	416 Partition Equal Subset Sum
 -	Ones and Zeroes
 -	Last Stone Weight II
-
 ### Infinite Supply (DP)
 Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
 -	322 Coin Change
 -	Coin Change II
 -	Perfect Squares
 -	Minimum Cost For Tickets
-
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
 -	300 Longest Increasing Subsequence
@@ -279,7 +271,6 @@ Description: It involves finding the longest subsequence of a given sequence whe
 -	Maximum Length of Pair Chain
 -	Number of LIS
 -	Longest String Chain
-
 ### DP on Grids
 Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
 -	Unique Paths II
@@ -289,7 +280,6 @@ Description: Dynamic Programming on matrices involves solving problems that can 
 -	Maximal Square
 -	Cherry Pickup
 -	Dungeon Game
-
 ### DP on Strings
 Description: It involves two strings, focusing on what happens when the last characters of the two substrings are the same.
 -	1143 Longest Common Subsequence
@@ -301,7 +291,6 @@ Description: It involves two strings, focusing on what happens when the last cha
 -	Distinct Subsequences
 -	Shortest Common Supersequence
 -	Wildcard Matching
-
 ### DP on Stocks
 Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
 -	Buy and Sell Stocks II
@@ -309,7 +298,6 @@ Description: It focuses on maximizing profit from buying and selling stocks over
 -	Buy and Sell Stocks IV
 -	Buy and Sell Stocks with Cooldown
 -	Buy and Sell Stocks with Transaction Fee
-
 ### Partition DP (MCM - Matrix Chain Multiplication)
 Description: It involves a sequence that needs to be divided into partitions in an optimal way.
 -	Partition Array for Maximum Sum
@@ -325,14 +313,12 @@ Description: Topological sorting is useful for tasks that require dependency res
 -	Strange Printer II
 -	Sequence Reconstruction
 -	Alien Dictionary
-
 ### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 -	Number of Operations to Make Network Connected
 -	Redundant Connection
 -	Accounts Merge
 -	Satisfiability of Equality Equations
-
 ### Graph Algorithms
 Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
 -	Kruskal's Algorithm: Minimum Cost to Connect All Points
