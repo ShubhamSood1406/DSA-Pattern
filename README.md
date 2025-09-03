@@ -139,9 +139,9 @@ A monotonic stack helps solve range queries by maintaining a stack of elements i
 -	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 -	[503 Next Greater Element II (Next Greater Element in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
 -	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+-	[901: Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 -	[84: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 -	1019: Next Greater Node in Linked List
--	901: Online Stock Span
 -	962: Maximum Width Ramp
 
 ## 4.	Sliding Window
