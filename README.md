@@ -134,6 +134,7 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 - [155: Min Stack](https://leetcode.com/problems/min-stack/description/)
 - [735: Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 -	[402: Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
+-	[277: Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/)
 ### Monotonic Stack
 A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
 -	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
@@ -141,6 +142,7 @@ A monotonic stack helps solve range queries by maintaining a stack of elements i
 -	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 -	[901: Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 -	[84: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+-	[239: Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) (De-Queue)
 -	1019: Next Greater Node in Linked List
 -	962: Maximum Width Ramp
 
@@ -154,7 +156,6 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	187 Repeated DNA Sequences
 -	567 Permutation in String
 -	2653 Sliding Subarray Beauty
--	239 Sliding Window Maximum
 ### Variable Size
 -	3 Longest Substring without Repeating Characters
 -	76 Minimum Window Substring
