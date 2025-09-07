@@ -126,7 +126,7 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 -	[136: Single Number (Every element appears twice except for one)](https://leetcode.com/problems/single-number/description/)
 -	[137: Single Number II (Every element appears three times except for one)](https://leetcode.com/problems/single-number-ii/description/)
 -	[260: Single Number III (Exactly two elements appear only once and all the other elements appear exactly twice)](https://leetcode.com/problems/single-number-iii/description/)
--	[1310: XOR Queries of a Subarray](https://leetcode.com/problems/xOR-queries-of-a-subarray/description/)
+-	[1310: XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
 -	2433: Find the Original Array of Prefix XOR
 
 ## 12. Stack
@@ -339,9 +339,9 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 
 ## 22.	Design Data Structure
 Description: It involves building custom data structures to efficiently handle specific operations, like managing data access, updates, and memory usage.
+-	[146: LRU Cache](https://leetcode.com/problems/lru-cache/description/) (Hash Table + Doubly-Linked List)
+-	LFU Cache
 -	Design Twitter
 -	Design Browser History
 -	Design Circular Deque
 -	Snapshot Array
--	LRU Cache
--	LFU Cache
