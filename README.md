@@ -146,7 +146,7 @@ A monotonic stack helps solve range queries by maintaining a stack of elements i
 -	1019: Next Greater Node in Linked List
 -	962: Maximum Width Ramp
 
-## 4.	Sliding Window
+## 13.	Sliding Window
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
 ### Fixed Size
 -	643 Maximum Average Subarray I
@@ -157,11 +157,11 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	567 Permutation in String
 -	2653 Sliding Subarray Beauty
 ### Variable Size
--	3 Longest Substring without Repeating Characters
+-	[3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) (Hash Table)
+-	[1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 -	76 Minimum Window Substring
 -	209 Minimum Size Subarray Sum
 -	713 Subarray Product Less Than K
--	485 Max Consecutive Ones
 -	904 Fruits Into Baskets
 -	1248 Count Number of Nice Subarrays
 
