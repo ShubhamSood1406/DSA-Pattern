@@ -159,7 +159,7 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 ### Variable Size
 -	[3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) (Hash Table)
 -	[1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
--	[904: Fruits Into Baskets](https://leetcode.com/problems/fruits-into-baskets/description/) (Hash Table)
+-	[904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) (Hash Table)
 -	76 Minimum Window Substring
 -	209 Minimum Size Subarray Sum
 -	713 Subarray Product Less Than K
