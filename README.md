@@ -149,8 +149,8 @@ A monotonic stack helps solve range queries by maintaining a stack of elements i
 ## 13.	Sliding Window
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
 ### Fixed Size
+-	[424: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) (Hash Table)
 -	643 Maximum Average Subarray I
--	424 Longest Repeating Character Replacement
 -	Maximum Sum Subarray of Size K
 -	1343 Number of Sub-arrays of Size K and Average Greater or Equal to Threshold
 -	187 Repeated DNA Sequences
@@ -160,6 +160,7 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	[3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) (Hash Table)
 -	[1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 -	[904: Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) (Hash Table)
+-	[340: Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) / [Longest Substring with K Unique Characters](https://www.geeksforgeeks.org/dsa/find-the-longest-substring-with-k-unique-characters-in-a-given-string/) (Hash Table)
 -	76 Minimum Window Substring
 -	209 Minimum Size Subarray Sum
 -	713 Subarray Product Less Than K
