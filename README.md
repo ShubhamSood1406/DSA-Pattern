@@ -164,10 +164,10 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	[209: Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 -	[713: Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 -	[76: Minimum Window Substring] (https://leetcode.com/problems/minimum-window-substring/description/)
-#### Variable Size (Counting Subarrays Problems)
+### Variable Size (Counting Subarrays Problems)
 -	[930: Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 -	[1248: Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
--	[992: Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
+-	[992: Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) (Hash Table)
 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
