@@ -169,21 +169,6 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	[1248: Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 -	[992: Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) (Hash Table)
 
-## 9.	Breadth First Search (BFS)
-Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
--	Shortest Path in Binary Matrix
--	994 Rotting Oranges
--	127 Word Ladder
--	As Far From Land as Possible
-
-## 10.	Depth First Search (DFS)
-Description: DFS explores as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
--	Number of Closed Islands
--	Coloring a Border
--	DFS from Boundary: Number of Enclaves
--	Shortest Time: Time Needed to Inform All Employees
--	Cyclic Find: Find Eventual Safe States
-
 ## 14.	Top ‘K’ Elements OR min/max Heap
 This pattern is beneficial for problems that require identifying the top or bottom 'k' elements in a set. 
 This pattern uses heaps or quickselect to efficiently find the top 'K' largest/smallest elements from a dataset.
@@ -204,6 +189,21 @@ Description: This pattern uses two heaps (max heap and min heap) to solve proble
 -	Find Median from Data Stream
 -	Sliding Window Median
 -	IPO
+
+## 9.	Breadth First Search (BFS)
+Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
+-	Shortest Path in Binary Matrix
+-	994 Rotting Oranges
+-	127 Word Ladder
+-	As Far From Land as Possible
+
+## 10.	Depth First Search (DFS)
+Description: DFS explores as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
+-	Number of Closed Islands
+-	Coloring a Border
+-	DFS from Boundary: Number of Enclaves
+-	Shortest Time: Time Needed to Inform All Employees
+-	Cyclic Find: Find Eventual Safe States
 
 ## 18.	Trees
 ### Depth First Search
