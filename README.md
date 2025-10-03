@@ -169,22 +169,24 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 -	[1248: Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 -	[992: Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) (Hash Table)
 
-## 14.	Top ‘K’ Elements OR min/max Heap
+## 14. Heap (Priority Queue)
+### Top ‘K’ Elements OR min/max Heap
 This pattern is beneficial for problems that require identifying the top or bottom 'k' elements in a set. 
 This pattern uses heaps or quickselect to efficiently find the top 'K' largest/smallest elements from a dataset.
--	215 Kth Largest element in an array
+-	[215: Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+-	[Sort K sorted array](https://www.forgeeks.org/dsa/nearly-sorted-algorithm/)
 -	347 Top K Frequent Elements
 -	264 Ugly Number II
 -	973 K Closest Points to Origin
 
-## 15.	K-way Merge
+### K-way Merge
 The K-way merge technique uses a heap to efficiently merge multiple sorted lists or arrays.
+-	[23: Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) (Linked List)
 -	373 Find K Pairs with Smallest Sums
 -	378 Kth Smallest Element in a Sorted Matrix
--	23 Merge K Sorted Lists
 -	632 Smallest Range Covering Elements from K Lists
 
-## 16.	Two Heaps
+### Two Heaps
 Description: This pattern uses two heaps (max heap and min heap) to solve problems involving tracking medians and efficiently managing dynamic data.
 -	Find Median from Data Stream
 -	Sliding Window Median
