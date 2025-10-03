@@ -174,7 +174,7 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 This pattern is beneficial for problems that require identifying the top or bottom 'k' elements in a set. 
 This pattern uses heaps or quickselect to efficiently find the top 'K' largest/smallest elements from a dataset.
 -	[215: Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
--	[Sort K sorted array](https://www.forgeeks.org/dsa/nearly-sorted-algorithm/)
+-	[Sort K sorted array](https://www.geeksforgeeks.org/dsa/nearly-sorted-algorithm/)
 -	347 Top K Frequent Elements
 -	264 Ugly Number II
 -	973 K Closest Points to Origin
