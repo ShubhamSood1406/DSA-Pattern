@@ -175,7 +175,7 @@ This pattern is beneficial for problems that require identifying the top or bott
 This pattern uses heaps or quickselect to efficiently find the top 'K' largest/smallest elements from a dataset.
 -	[215: Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 -	[Sort K sorted array](https://www.geeksforgeeks.org/dsa/nearly-sorted-algorithm/)
--	347 Top K Frequent Elements
+-	[347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) (Hash Table)
 -	264 Ugly Number II
 -	973 K Closest Points to Origin
 
@@ -188,7 +188,7 @@ The K-way merge technique uses a heap to efficiently merge multiple sorted lists
 
 ### Two Heaps
 Description: This pattern uses two heaps (max heap and min heap) to solve problems involving tracking medians and efficiently managing dynamic data.
--	Find Median from Data Stream
+-	[295: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
 -	Sliding Window Median
 -	IPO
 
