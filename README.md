@@ -192,6 +192,18 @@ Description: This pattern uses two heaps (max heap and min heap) to solve proble
 -	Sliding Window Median
 -	IPO
 
+## 21.	Greedy
+Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
+- [55: Jump Game](https://leetcode.com/problems/jump-game/description/)
+-	[45: Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+-	Gas Station
+-	Bag of Tokens
+-	Boats to Save People
+-	Wiggle Subsequence
+-	Car Pooling
+-	Candy
+
+
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
 -	Shortest Path in Binary Matrix
@@ -332,16 +344,6 @@ Description: Advanced graph algorithms are used to solve complex problems involv
 -	Dijkstra's Algorithm: Cheapest Flights Within K Stops
 -	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
 -	Bellman Ford: Network Delay Time
-
-## 21.	Greedy
-Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
--	Jump Game II
--	Gas Station
--	Bag of Tokens
--	Boats to Save People
--	Wiggle Subsequence
--	Car Pooling
--	Candy
 
 ## 22.	Design Data Structure
 Description: It involves building custom data structures to efficiently handle specific operations, like managing data access, updates, and memory usage.
