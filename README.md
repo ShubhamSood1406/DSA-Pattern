@@ -197,7 +197,7 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [55: Jump Game](https://leetcode.com/problems/jump-game/description/)
 -	[45: Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 -	[Job Sequencing Problem](https://www.geeksforgeeks.org/dsa/job-sequencing-problem/)
--	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/)
+-	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/) / [452: Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 -	Gas Station
 -	Bag of Tokens
 -	Boats to Save People
