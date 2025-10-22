@@ -192,10 +192,12 @@ Description: This pattern uses two heaps (max heap and min heap) to solve proble
 -	Sliding Window Median
 -	IPO
 
-## 21.	Greedy
+## 15. Greedy
 Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
 - [55: Jump Game](https://leetcode.com/problems/jump-game/description/)
 -	[45: Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+-	[Job Sequencing Problem](https://www.geeksforgeeks.org/dsa/job-sequencing-problem/)
+-	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/)
 -	Gas Station
 -	Bag of Tokens
 -	Boats to Save People
