@@ -66,10 +66,10 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 ## 6.	Merge Intervals / Overlapping Intervals
 Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
 -	[56: Merge Intervals (Basic Merge)](https://leetcode.com/problems/merge-intervals/description/)
--	57: Insert Interval (Interval Insertion)
--	435: Non-overlapping intervals
+-	[57: Insert Interval (Interval Insertion)](https://leetcode.com/problems/insert-interval/description/)
+-	435: Non-overlapping intervals (In Greedy Section)
+- 452: Minimum Number of Arrows to Burst Balloons (In Greedy Section)
 -	731: My Calendar II
--	452: Minimum Number of Arrows to Burst Balloons
 
 ## 7.	Modified Binary Search
 An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
@@ -199,6 +199,7 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 -	[Job Sequencing Problem](https://www.geeksforgeeks.org/dsa/job-sequencing-problem/)
 -	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/) / [452: Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 - [435: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+- [Minimum Platforms Required](https://www.geeksforgeeks.org/dsa/minimum-number-platforms-required-railwaybus-station/)
 -	Gas Station
 -	Bag of Tokens
 -	Boats to Save People
