@@ -47,9 +47,9 @@ Prefix Sums/Products are techniques that store cumulative sums or products up to
 -	[Longest subarray with sum K (array having Positive and Negative elements)](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/)
 -	[560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 -	[525: Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
+-	238: Product of Array Except Self
 -	303: Range Sum Query - Immutable
 -	1991: Find the Middle Index in Array
--	238: Product of Array Except Self
 -	2270: Number of Ways to Split Array
 -	304: Range Sum Query 2D
 
@@ -67,8 +67,8 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
 -	[56: Merge Intervals (Basic Merge)](https://leetcode.com/problems/merge-intervals/description/)
 -	[57: Insert Interval (Interval Insertion)](https://leetcode.com/problems/insert-interval/description/)
--	435: Non-overlapping intervals (In Greedy Section)
-- 452: Minimum Number of Arrows to Burst Balloons (In Greedy Section)
+-	435: Non-overlapping Intervals (In Greedy Section)[https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy]
+- 452: Minimum Number of Arrows to Burst Balloons (In Greedy Section)[https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy]
 -	731: My Calendar II
 
 ## 7.	Modified Binary Search
@@ -189,8 +189,8 @@ The K-way merge technique uses a heap to efficiently merge multiple sorted lists
 ### Two Heaps
 Description: This pattern uses two heaps (max heap and min heap) to solve problems involving tracking medians and efficiently managing dynamic data.
 -	[295: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
--	Sliding Window Median
--	IPO
+-	480 Sliding Window Median
+-	502 IPO
 
 ## 15. Greedy
 Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
@@ -200,13 +200,14 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 -	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/) / [452: Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 - [435: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 - [Minimum Platforms Required](https://www.geeksforgeeks.org/dsa/minimum-number-platforms-required-railwaybus-station/)
--	Gas Station
--	Bag of Tokens
--	Boats to Save People
--	Wiggle Subsequence
--	Car Pooling
--	Candy
-
+- [135: Candy](https://leetcode.com/problems/candy/description/)
+-	134 Gas Station
+-	678 Valid Parenthesis String
+-	Fractional Knapsack
+-	948 Bag of Tokens
+-	881 Boats to Save People
+-	376 Wiggle Subsequence
+-	1094 Car Pooling
 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
