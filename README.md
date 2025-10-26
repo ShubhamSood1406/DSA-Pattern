@@ -67,8 +67,8 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 Use this pattern to deal with overlapping intervals, helping to create a more organized and efficient structure. Intervals are often manipulated through sorting and merging based on their start and end times.
 -	[56: Merge Intervals (Basic Merge)](https://leetcode.com/problems/merge-intervals/description/)
 -	[57: Insert Interval (Interval Insertion)](https://leetcode.com/problems/insert-interval/description/)
--	435: Non-overlapping Intervals (In Greedy Section)[https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy]
-- 452: Minimum Number of Arrows to Burst Balloons (In Greedy Section)[https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy]
+-	435: Non-overlapping Intervals [(In Greedy Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy)
+- 452: Minimum Number of Arrows to Burst Balloons [(In Greedy Section)[(https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#15-greedy)
 -	731: My Calendar II
 
 ## 7.	Modified Binary Search
