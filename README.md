@@ -202,7 +202,7 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [Minimum Platforms Required](https://www.geeksforgeeks.org/dsa/minimum-number-platforms-required-railwaybus-station/)
 - [135: Candy](https://leetcode.com/problems/candy/description/)
 -	134 Gas Station
--	678 Valid Parenthesis String
+-	[678: Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
 -	Fractional Knapsack
 -	948 Bag of Tokens
 -	881 Boats to Save People
