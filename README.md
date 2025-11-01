@@ -196,6 +196,7 @@ Description: This pattern uses two heaps (max heap and min heap) to solve proble
 Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
 - [55: Jump Game](https://leetcode.com/problems/jump-game/description/)
 -	[45: Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+- [Fractional Knapsack](https://www.geeksforgeeks.org/dsa/fractional-knapsack-problem/)
 -	[Job Sequencing Problem](https://www.geeksforgeeks.org/dsa/job-sequencing-problem/)
 -	[N Meetings in one Room](https://www.geeksforgeeks.org/dsa/find-maximum-meetings-in-one-room/) / [452: Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 - [435: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
@@ -203,7 +204,6 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [135: Candy](https://leetcode.com/problems/candy/description/)
 -	134 Gas Station
 -	[678: Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
--	Fractional Knapsack
 -	948 Bag of Tokens
 -	881 Boats to Save People
 -	376 Wiggle Subsequence
