@@ -202,7 +202,7 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [435: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 - [Minimum Platforms Required](https://www.geeksforgeeks.org/dsa/minimum-number-platforms-required-railwaybus-station/)
 - [135: Candy](https://leetcode.com/problems/candy/description/)
--	134 Gas Station
+-	[134: Gas Station](https://leetcode.com/problems/gas-station/description/)
 -	[678: Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
 -	948 Bag of Tokens
 -	881 Boats to Save People
