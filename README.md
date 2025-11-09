@@ -213,8 +213,8 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 ### Depth First Search (Uses Recursion)
 This pattern allows you to traverse a tree or graph using depth as the main factor.
 - [144: Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
-- [144: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
-- [144: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-posorder-traversal/description/)
+- [94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [145: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-posorder-traversal/description/)
 - [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 -	100 Same Binary Tree (DFS or BFS)
 -	257 Binary Tree Paths
