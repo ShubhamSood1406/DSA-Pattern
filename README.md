@@ -209,24 +209,13 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 -	376 Wiggle Subsequence
 -	1094 Car Pooling
 
-## 9.	Breadth First Search (BFS)
-Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
--	Shortest Path in Binary Matrix
--	994 Rotting Oranges
--	127 Word Ladder
--	As Far From Land as Possible
-
-## 10.	Depth First Search (DFS)
-Description: DFS explores as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
--	Number of Closed Islands
--	Coloring a Border
--	DFS from Boundary: Number of Enclaves
--	Shortest Time: Time Needed to Inform All Employees
--	Cyclic Find: Find Eventual Safe States
-
-## 18.	Trees
-### Depth First Search
+## 16.	Trees
+### Depth First Search (Uses Recursion)
 This pattern allows you to traverse a tree or graph using depth as the main factor.
+- [144: Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- [144: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [144: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-posorder-traversal/description/)
+- [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 -	100 Same Binary Tree (DFS or BFS)
 -	257 Binary Tree Paths
 -	133 Clone Graph
@@ -243,7 +232,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	124 Binary Tree Maximum Path Sum
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
--	102 Binary Tree Level Order Traversal
+-	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 -	103 Binary Tree Zigzag Level Order Traversal
 -	1609 Even Odd Tree
 -	2415 Reverse Odd Levels of Binary Tree
@@ -257,7 +246,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
 ### Height Related Problems
--	Maximum Depth of BT
+-	[104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) (DFS)
 -	Balanced Binary Tree
 -	Diameter of Binary Tree
 -	Minimum Depth of BT 
@@ -349,6 +338,21 @@ Description: Advanced graph algorithms are used to solve complex problems involv
 -	Dijkstra's Algorithm: Cheapest Flights Within K Stops
 -	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
 -	Bellman Ford: Network Delay Time
+
+## 9.	Breadth First Search (BFS)
+Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
+-	Shortest Path in Binary Matrix
+-	994 Rotting Oranges
+-	127 Word Ladder
+-	As Far From Land as Possible
+
+## 10.	Depth First Search (DFS)
+Description: DFS explores as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
+-	Number of Closed Islands
+-	Coloring a Border
+-	DFS from Boundary: Number of Enclaves
+-	Shortest Time: Time Needed to Inform All Employees
+-	Cyclic Find: Find Eventual Safe States
 
 ## 22.	Design Data Structure
 Description: It involves building custom data structures to efficiently handle specific operations, like managing data access, updates, and memory usage.
