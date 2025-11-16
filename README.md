@@ -216,7 +216,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 - [94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 - [145: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
--	100 Same Binary Tree (DFS or BFS)
+-	[100: Same Tree](https://leetcode.com/problems/same-tree/description/)
 -	257 Binary Tree Paths
 -	133 Clone Graph
 -	113 Path Sum II
@@ -249,6 +249,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) (DFS)
 -	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
 -	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
+-	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS)
 -	Minimum Depth of BT 
 ### Ancestor Problem
 -	LCA of Binary Tree
