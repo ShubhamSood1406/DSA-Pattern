@@ -20,7 +20,7 @@
 - [229: Majority Element II (>n/3 times)](https://leetcode.com/problems/majority-element-ii/description) (Moore's Voting Algorithm)
 - [53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description) (Kadane's Algorithm)
 - [152: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description) (Kadane's Algorithm)
-- [645: Set Mismatch (Find Repeating and Missing number)](https://leetcode.com/problems/set-mismatch/description)
+- [645: Set Mismatch](https://leetcode.com/problems/set-mismatch/description) (Find Repeating and Missing number)
 - [41: First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
   
 ## 2. String
@@ -35,7 +35,7 @@
 ## 3.	Two Pointers
 This technique is commonly applied on sorted arrays or linked lists to find pairs or reverse elements. It is an ideal strategy when managing elements with pair relationships.
 -	[167: Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-- [75: Sort Colors (Dutch National Flag)](https://leetcode.com/problems/sort-colors/description/)
+- [75: Sort Colors](https://leetcode.com/problems/sort-colors/description/) (Dutch National Flag)
 - [31: Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 -	[15: 3 Sum](https://leetcode.com/problems/3sum/description/)
 -	[42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
@@ -44,7 +44,7 @@ This technique is commonly applied on sorted arrays or linked lists to find pair
 
 ## 4.	Prefix Sum (Hash Table involved)
 Prefix Sums/Products are techniques that store cumulative sums or products up to each index, allowing for quick subarray range queries.
--	[Longest subarray with sum K (array having Positive and Negative elements)](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/)
+-	[Longest subarray with sum K](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/) (array having Positive and Negative elements)
 -	[560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 -	[525: Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 -	238: Product of Array Except Self
@@ -75,7 +75,7 @@ Use this pattern to deal with overlapping intervals, helping to create a more or
 An adaptation of the binary search for situations where a standard binary search doesn't apply. A modified version of binary search that applies to rotated arrays, unsorted arrays, or specialized conditions.
 - [Floor and Ceil in Sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/)
 -	[33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
--	[81: Search in Rotated Sorted Array II (Contains Duplicate)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+-	[81: Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)  (Contains Duplicate)
 -	[153: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 -	[540: Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 -	[162: Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
@@ -99,7 +99,7 @@ Used in linked list or array problems, this pattern is ideal for detecting cycle
 ## 9.	Linked List in-place reversal
 Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 
 - [206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
--	[92: Reverse Linked List II (Reverse from position left to right)](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+-	[92: Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) (Reverse from position left to right)
 -	[25: Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 -	24: Swap Nodes in Pairs
 
@@ -107,15 +107,15 @@ Reversing a linked list in place without using extra space is key for problems t
 Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.
 -	[22: Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 -	[78: Subsets](https://leetcode.com/problems/subsets/description/)
--	[39: Combination Sum (Same element may be chosen unlimited times)](https://leetcode.com/problems/combination-sum/description/)
-- [40: Combination Sum II (Each element only be used once in the combination)](https://leetcode.com/problems/combination-sum-ii/description/)
-- [90: Subsets II (Contains Duplicate)](https://leetcode.com/problems/subsets-ii/description/)
+-	[39: Combination Sum](https://leetcode.com/problems/combination-sum/description/) (Same element may be chosen unlimited times)
+- [40: Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) (Each element only be used once in the combination)
+- [90: Subsets II](https://leetcode.com/problems/subsets-ii/description/) (Contains Duplicate)
 -	[131: Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
 -	[79: Word Search](https://leetcode.com/problems/word-search/description/) (DFS)
 -	[51: N-Queens](https://leetcode.com/problems/n-queens/description/) (DFS)
 - [37: Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
 - [46: Permutations](https://leetcode.com/problems/permutations/description/)
--	[47: Permutations II (Contains Duplicate)](https://leetcode.com/problems/permutations-ii/description/)
+-	[47: Permutations II](https://leetcode.com/problems/permutations-ii/description/) (Contains Duplicate)
 
 ## 11.	Bit Manipulation
 Description: Bit manipulation is a powerful technique that can solve problems like finding single numbers or efficiently pairing elements.
@@ -123,14 +123,14 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 - [231: Power of Two](https://leetcode.com/problems/power-of-two/description/) (Kernighan's Algorithm)
 - [191: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) (Kernighan's Algorithm)
 -	[2220: Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
--	[136: Single Number (Every element appears twice except for one)](https://leetcode.com/problems/single-number/description/)
--	[137: Single Number II (Every element appears three times except for one)](https://leetcode.com/problems/single-number-ii/description/)
--	[260: Single Number III (Exactly two elements appear only once and all the other elements appear exactly twice)](https://leetcode.com/problems/single-number-iii/description/)
+-	[136: Single Number](https://leetcode.com/problems/single-number/description/) (Every element appears twice except for one)
+-	[137: Single Number II](https://leetcode.com/problems/single-number-ii/description/) (Every element appears three times except for one)
+-	[260: Single Number III](https://leetcode.com/problems/single-number-iii/description/) (Exactly two elements appear only once and all the other elements appear exactly twice)
 -	[1310: XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
 -	2433: Find the Original Array of Prefix XOR
 
 ## 12. Stack
-- [20: Valid Parentheses (Balanced Parantheses)](https://leetcode.com/problems/valid-parentheses/description/)
+- [20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) (Balanced Parantheses)
 - [155: Min Stack](https://leetcode.com/problems/min-stack/description/)
 - [735: Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 -	[402: Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
@@ -138,7 +138,7 @@ Description: Bit manipulation is a powerful technique that can solve problems li
 ### Monotonic Stack
 A monotonic stack helps solve range queries by maintaining a stack of elements in increasing or decreasing order.
 -	[496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
--	[503 Next Greater Element II (Next Greater Element in Circular Array)](https://leetcode.com/problems/next-greater-element-ii/description/)
+-	[503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) (Next Greater Element in Circular Array)
 -	[739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 -	[901: Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 -	[84: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
@@ -229,7 +229,6 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	988 Smallest String Starting from Leaf
 -	1080 Insufficient Nodes in Root to Leaf
 -	1457 Pseudo-Palindromic Paths in a Binary Tree
--	124 Binary Tree Maximum Path Sum
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
