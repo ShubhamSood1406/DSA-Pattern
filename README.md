@@ -247,8 +247,8 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	1008 Construct BST from Preorder
 ### Height Related Problems
 -	[104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) (DFS)
--	Balanced Binary Tree
--	Diameter of Binary Tree
+-	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
+-	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
 -	Minimum Depth of BT 
 ### Ancestor Problem
 -	LCA of Binary Tree
