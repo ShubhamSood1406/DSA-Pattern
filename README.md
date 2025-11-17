@@ -151,11 +151,11 @@ This pattern is used to track a subset of data within a larger dataset. It's par
 ### Fixed Size
 -	[424: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) (Hash Table)
 -	[567: Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) / [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) (Hash table)
--	643 Maximum Average Subarray I
+-	643: Maximum Average Subarray I
 -	Maximum Sum Subarray of Size K
--	1343 Number of Sub-arrays of Size K and Average Greater or Equal to Threshold
--	187 Repeated DNA Sequences
--	2653 Sliding Subarray Beauty
+-	1343: Number of Sub-arrays of Size K and Average Greater or Equal to Threshold
+-	187: Repeated DNA Sequences
+-	2653: Sliding Subarray Beauty
 ### Variable Size
 -	[3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) (Hash Table)
 -	[1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
@@ -176,21 +176,21 @@ This pattern uses heaps or quickselect to efficiently find the top 'K' largest/s
 -	[215: Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 -	[Sort K sorted array](https://www.geeksforgeeks.org/dsa/nearly-sorted-algorithm/)
 -	[347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) (Hash Table)
--	264 Ugly Number II
--	973 K Closest Points to Origin
+-	264: Ugly Number II
+-	973: K Closest Points to Origin
 
 ### K-way Merge
 The K-way merge technique uses a heap to efficiently merge multiple sorted lists or arrays.
 -	[23: Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) (Linked List)
--	373 Find K Pairs with Smallest Sums
--	378 Kth Smallest Element in a Sorted Matrix
--	632 Smallest Range Covering Elements from K Lists
+-	373: Find K Pairs with Smallest Sums
+-	378: Kth Smallest Element in a Sorted Matrix
+-	632: Smallest Range Covering Elements from K Lists
 
 ### Two Heaps
 Description: This pattern uses two heaps (max heap and min heap) to solve problems involving tracking medians and efficiently managing dynamic data.
 -	[295: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
--	480 Sliding Window Median
--	502 IPO
+-	480: Sliding Window Median
+-	502: IPO
 
 ## 15. Greedy
 Description: Greedy algorithms make local optimal choices at each step, which lead to a global optimal solution for problems like scheduling and resource allocation.
@@ -204,10 +204,10 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [135: Candy](https://leetcode.com/problems/candy/description/)
 -	[134: Gas Station](https://leetcode.com/problems/gas-station/description/)
 -	[678: Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
--	948 Bag of Tokens
--	881 Boats to Save People
--	376 Wiggle Subsequence
--	1094 Car Pooling
+-	948: Bag of Tokens
+-	881: Boats to Save People
+-	376: Wiggle Subsequence
+-	1094: Car Pooling
 
 ## 16.	Trees
 ### Depth First Search (Uses Recursion)
@@ -232,7 +232,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
--	103 Binary Tree Zigzag Level Order Traversal
+-	[103: Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 -	1609 Even Odd Tree
 -	2415 Reverse Odd Levels of Binary Tree
 -	1302 Deepest Leaves Sum
