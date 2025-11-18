@@ -217,6 +217,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 - [145: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 -	[100: Same Tree](https://leetcode.com/problems/same-tree/description/)
+-	[545: Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/)
 -	257 Binary Tree Paths
 -	133 Clone Graph
 -	113 Path Sum II
