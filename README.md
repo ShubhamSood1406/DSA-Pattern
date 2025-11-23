@@ -176,6 +176,7 @@ This pattern uses heaps or quickselect to efficiently find the top 'K' largest/s
 -	[215: Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 -	[Sort K sorted array](https://www.geeksforgeeks.org/dsa/nearly-sorted-algorithm/)
 -	[347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) (Hash Table)
+-	[621: Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) (Hash Table)
 -	264: Ugly Number II
 -	973: K Closest Points to Origin
 
@@ -234,6 +235,9 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 -	[103: Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+-	[987: Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
+-	[Top View of Binary Tree](https://www.geeksforgeeks.org/dsa/print-nodes-top-view-binary-tree/) / [Bottom View of Binary Tree](https://www.geeksforgeeks.org/dsa/bottom-view-binary-tree/)
+- [199: Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) / [Left View of Binary Tree](https://www.geeksforgeeks.org/dsa/print-left-view-binary-tree/)
 -	1609 Even Odd Tree
 -	2415 Reverse Odd Levels of Binary Tree
 -	1302 Deepest Leaves Sum
