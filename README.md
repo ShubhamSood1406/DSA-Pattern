@@ -216,14 +216,13 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 - [144: Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 - [94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 - [145: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
-- [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 -	[100: Same Tree](https://leetcode.com/problems/same-tree/description/)
 -	[545: Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/)
--	257 Binary Tree Paths
+-	[101: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+-	[257: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 -	133 Clone Graph
 -	113 Path Sum II
 -	210 Course Schedule II
--	124 Binary Tree Maximum Path Sum
 -	107 Binary Tree Level Order Traversal II
 -	230 Kth Smallest Element in a BST
 -	297 Serialize and Deserialize Binary Tree (DFS or BFS)
@@ -231,6 +230,12 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	988 Smallest String Starting from Leaf
 -	1080 Insufficient Nodes in Root to Leaf
 -	1457 Pseudo-Palindromic Paths in a Binary Tree
+#### Height Related Problems
+-	[104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) (DFS)
+- [111: Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) (DFS)
+-	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
+-	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
+-	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS) 
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -249,12 +254,6 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	106 Construct BT from Postorder and Inorder
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
-### Height Related Problems
--	[104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) (DFS)
--	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
--	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
--	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS)
--	Minimum Depth of BT 
 ### Ancestor Problem
 -	LCA of Binary Tree
 -	Maximum Difference Between Node and Ancestor
