@@ -219,7 +219,9 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[100: Same Tree](https://leetcode.com/problems/same-tree/description/)
 -	[545: Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/)
 -	[101: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+-	[226: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 -	[257: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
+-	[Path from Root to a given node in Binary Tree](https://www.geeksforgeeks.org/dsa/print-path-root-given-node-binary-tree/)
 -	133 Clone Graph
 -	113 Path Sum II
 -	210 Course Schedule II
