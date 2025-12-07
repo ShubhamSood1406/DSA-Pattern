@@ -237,7 +237,12 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 - [111: Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) (DFS)
 -	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
 -	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
--	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS) 
+-	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS)
+#### Ancestor Problem
+-	[236: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) (DFS)
+-	Maximum Difference Between Node and Ancestor
+-	LCA of Deepest Leaves
+-	Kth Ancestor of a Tree Node
 ### Breadth First Search (Level Order Traversal)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -245,22 +250,17 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[987: Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
 -	[Top View of Binary Tree](https://www.geeksforgeeks.org/dsa/print-nodes-top-view-binary-tree/) / [Bottom View of Binary Tree](https://www.geeksforgeeks.org/dsa/bottom-view-binary-tree/)
 - [199: Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) / [Left View of Binary Tree](https://www.geeksforgeeks.org/dsa/print-left-view-binary-tree/)
+-	[662: Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 -	1609 Even Odd Tree
 -	2415 Reverse Odd Levels of Binary Tree
 -	1302 Deepest Leaves Sum
 -	623 Add One Row to Tree
--	662 Maximum Width of Binary Tree
 -	863 All Nodes Distance K in Binary Tree
 ### Tree Construction
 -	105 Construct BT from Preorder and Inorder
 -	106 Construct BT from Postorder and Inorder
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
-### Ancestor Problem
--	LCA of Binary Tree
--	Maximum Difference Between Node and Ancestor
--	LCA of Deepest Leaves
--	Kth Ancestor of a Tree Node
 ### Binary Search Tree
 -	Validate BST
 -	Range Sum of BST
