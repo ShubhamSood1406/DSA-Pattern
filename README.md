@@ -239,7 +239,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
 -	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
 -	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS)
--	[222: Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)[In O(log N * log N)] (DFS)
+-	[222: Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) [In O(log N * log N)] (DFS)
 #### Ancestor Problem
 -	[236: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) (DFS)
 -	Maximum Difference Between Node and Ancestor
