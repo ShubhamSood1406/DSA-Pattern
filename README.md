@@ -222,6 +222,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[226: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 -	[257: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 -	[Path from Root to a given node in Binary Tree](https://www.geeksforgeeks.org/dsa/print-path-root-given-node-binary-tree/)
+-	[863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 -	133 Clone Graph
 -	113 Path Sum II
 -	210 Course Schedule II
@@ -238,6 +239,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) (DFS)
 -	[543: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) (DFS)
 -	[124: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) (DFS)
+-	[222: Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)[In O(log N * log N)] (DFS)
 #### Ancestor Problem
 -	[236: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) (DFS)
 -	Maximum Difference Between Node and Ancestor
@@ -255,7 +257,6 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	2415 Reverse Odd Levels of Binary Tree
 -	1302 Deepest Leaves Sum
 -	623 Add One Row to Tree
--	863 All Nodes Distance K in Binary Tree
 ### Tree Construction
 -	105 Construct BT from Preorder and Inorder
 -	106 Construct BT from Postorder and Inorder
