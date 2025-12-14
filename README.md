@@ -258,8 +258,8 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	1302 Deepest Leaves Sum
 -	623 Add One Row to Tree
 ### Tree Construction
--	105 Construct BT from Preorder and Inorder
--	106 Construct BT from Postorder and Inorder
+-	[105: Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+-	106 Construct Binary Tree from Inorder and Postorder Traversal
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
 ### Binary Search Tree
