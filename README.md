@@ -259,7 +259,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	623 Add One Row to Tree
 ### Tree Construction
 -	[105: Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
--	106 Construct Binary Tree from Inorder and Postorder Traversal
+-	[106: Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 -	654 Maximum Binary Tree
 -	1008 Construct BST from Preorder
 ### Binary Search Tree
