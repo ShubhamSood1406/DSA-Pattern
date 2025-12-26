@@ -223,12 +223,12 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[257: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 -	[Path from Root to a given node in Binary Tree](https://www.geeksforgeeks.org/dsa/print-path-root-given-node-binary-tree/)
 -	[863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+-	[297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 -	133 Clone Graph
 -	113 Path Sum II
 -	210 Course Schedule II
 -	107 Binary Tree Level Order Traversal II
 -	230 Kth Smallest Element in a BST
--	297 Serialize and Deserialize Binary Tree (DFS or BFS)
 -	129 Sum Root to Leaf Numbers
 -	988 Smallest String Starting from Leaf
 -	1080 Insufficient Nodes in Root to Leaf
