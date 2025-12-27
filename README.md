@@ -224,6 +224,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[Path from Root to a given node in Binary Tree](https://www.geeksforgeeks.org/dsa/print-path-root-given-node-binary-tree/)
 -	[863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 -	[297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+-	[114: Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 -	133 Clone Graph
 -	113 Path Sum II
 -	210 Course Schedule II
