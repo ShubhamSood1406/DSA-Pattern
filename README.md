@@ -267,10 +267,10 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[450: Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 - [230: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 -	[98: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+-	[235: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 - 1008: Construct BST from Preorder
 -	938: Range Sum of BST
 -	530: Minimum Absolute Difference in BST
--	235: LCA of BST
 
 ## 19.	Dynamic Programming
 ### Take / Not Take (DP)
