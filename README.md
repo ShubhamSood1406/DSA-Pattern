@@ -263,8 +263,9 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	654: Maximum Binary Tree
 ### Binary Search Tree
 - [700: Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
--	701: Insert into a BST
-- 230: Kth Smallest Element in a BST
+-	[701: Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+-	[450: Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+- [230: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - 1008: Construct BST from Preorder
 -	98: Validate BST
 -	938: Range Sum of BST
