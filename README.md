@@ -268,7 +268,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 - [230: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 -	[98: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 -	[235: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-- 1008: Construct BST from Preorder
+- [1008: Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 -	938: Range Sum of BST
 -	530: Minimum Absolute Difference in BST
 
