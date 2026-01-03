@@ -269,6 +269,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[98: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 -	[235: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 - [1008: Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+- [653: Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 -	938: Range Sum of BST
 -	530: Minimum Absolute Difference in BST
 
