@@ -47,9 +47,9 @@ Prefix Sums/Products are techniques that store cumulative sums or products up to
 -	[Longest subarray with sum K](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/) (array having Positive and Negative elements)
 -	[560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 -	[525: Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
--	238: Product of Array Except Self
+-	[238: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+-	[1991: Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
 -	303: Range Sum Query - Immutable
--	1991: Find the Middle Index in Array
 -	2270: Number of Ways to Split Array
 -	304: Range Sum Query 2D
 
