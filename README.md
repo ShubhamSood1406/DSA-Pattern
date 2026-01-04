@@ -225,7 +225,6 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 -	[297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 -	[114: Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
--	133: Clone Graph
 -	113: Path Sum II
 -	210: Course Schedule II
 -	107: Binary Tree Level Order Traversal II
@@ -270,7 +269,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[235: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 - [1008: Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 - [653: Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
--	938: Range Sum of BST
+-	[938: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 -	530: Minimum Absolute Difference in BST
 
 ## 19.	Dynamic Programming
@@ -330,6 +329,7 @@ Description: It involves a sequence that needs to be divided into partitions in 
 -	Palindrome Partitioning II
 
 ## 20.	Graphs
+-	133: Clone Graph
 ### Topological Sort
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
 -	Course Schedule
