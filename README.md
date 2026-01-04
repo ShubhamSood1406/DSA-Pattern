@@ -101,7 +101,7 @@ Reversing a linked list in place without using extra space is key for problems t
 - [206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 -	[92: Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) (Reverse from position left to right)
 -	[25: Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
--	24: Swap Nodes in Pairs
+-	[24: Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 ## 10.	Backtracking / Recursion
 Backtracking helps in problems where you need to explore all potential solutions, such as solving puzzles, generating combinations, or finding paths.
