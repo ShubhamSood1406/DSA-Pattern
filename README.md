@@ -40,18 +40,17 @@ This technique is commonly applied on sorted arrays or linked lists to find pair
 -	[15: 3 Sum](https://leetcode.com/problems/3sum/description/)
 -	[42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 -	[11: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
--	948: Bag of Tokens
 
 ## 4.	Prefix Sum (Hash Table involved)
 Prefix Sums/Products are techniques that store cumulative sums or products up to each index, allowing for quick subarray range queries.
+-	[303: Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 -	[Longest subarray with sum K](https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/) (array having Positive and Negative elements)
 -	[560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 -	[525: Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 -	[238: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 -	[1991: Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
--	303: Range Sum Query - Immutable
--	2270: Number of Ways to Split Array
 -	304: Range Sum Query 2D
+-	2270: Number of Ways to Split Array
 
 ## 5.	Matrix Traversal
 Problems involving 2D arrays (matrices) are often solved using row-column traversal or manipulation based on matrix properties.
@@ -205,8 +204,8 @@ Description: Greedy algorithms make local optimal choices at each step, which le
 - [135: Candy](https://leetcode.com/problems/candy/description/)
 -	[134: Gas Station](https://leetcode.com/problems/gas-station/description/)
 -	[678: Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
--	948: Bag of Tokens
--	881: Boats to Save People
+-	[881: Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
+-	[948: Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)
 -	376: Wiggle Subsequence
 -	1094: Car Pooling
 
