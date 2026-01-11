@@ -149,10 +149,9 @@ A monotonic stack helps solve range queries by maintaining a stack of elements i
 This pattern is used to track a subset of data within a larger dataset. It's particularly useful in array or string problems when you need to maintain a 'window' of elements satisfying a certain condition.
 ### Fixed Size
 -	[Maximum Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
--	[643: Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+-	[643: Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) / [1343: Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
 -	[424: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) (Hash Table)
 -	[567: Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) / [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) (Hash table)
--	1343: Number of Sub-arrays of Size K and Average Greater or Equal to Threshold
 -	187: Repeated DNA Sequences
 -	2653: Sliding Subarray Beauty
 ### Variable Size
