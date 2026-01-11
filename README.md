@@ -92,8 +92,8 @@ Used in linked list or array problems, this pattern is ideal for detecting cycle
 -	[142: Linked List Cycle II (Find starting point of cycle](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 - [243: Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) (Recursion)
 -	[19: Remove nth Node from the End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
--	202: Happy Number
--	287: Find the Duplicate Number
+-	[202: Happy Number](https://leetcode.com/problems/happy-number/description/) (Hash Table)
+-	[287: Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 ## 9.	Linked List in-place reversal
 Reversing a linked list in place without using extra space is key for problems that require in-place list manipulations. 
