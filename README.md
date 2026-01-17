@@ -223,10 +223,9 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 -	[297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 -	[114: Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
--	113: Path Sum II
--	210: Course Schedule II
--	107: Binary Tree Level Order Traversal II
+-	[113: Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 -	129: Sum Root to Leaf Numbers
+-	107: Binary Tree Level Order Traversal II
 -	988: Smallest String Starting from Leaf
 -	1080: Insufficient Nodes in Root to Leaf
 -	1457: Pseudo-Palindromic Paths in a Binary Tree
@@ -270,7 +269,29 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[938: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 -	530: Minimum Absolute Difference in BST
 
-## 19.	Dynamic Programming
+## 17.	Graphs
+-	133: Clone Graph
+### Topological Sort
+Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
+-	Course Schedule
+- 210: Course Schedule II
+-	Strange Printer II
+-	Sequence Reconstruction
+-	Alien Dictionary
+### Union Find (Disjoint Set)
+Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
+-	Number of Operations to Make Network Connected
+-	Redundant Connection
+-	Accounts Merge
+-	Satisfiability of Equality Equations
+### Graph Algorithms
+Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
+-	Kruskal's Algorithm: Minimum Cost to Connect All Points
+-	Dijkstra's Algorithm: Cheapest Flights Within K Stops
+-	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
+-	Bellman Ford: Network Delay Time
+
+## 18.	Dynamic Programming
 ### Take / Not Take (DP)
 Description: Solve optimization problems like selecting items with the max/min value under certain constraints.
 -	70 Climbing Stairs
@@ -325,28 +346,6 @@ Description: It involves a sequence that needs to be divided into partitions in 
 -	312 Burst Balloons
 -	Minimum Cost to Cut a Stick
 -	Palindrome Partitioning II
-
-## 20.	Graphs
--	133: Clone Graph
-### Topological Sort
-Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
--	Course Schedule
--	Course Schedule II
--	Strange Printer II
--	Sequence Reconstruction
--	Alien Dictionary
-### Union Find (Disjoint Set)
-Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
--	Number of Operations to Make Network Connected
--	Redundant Connection
--	Accounts Merge
--	Satisfiability of Equality Equations
-### Graph Algorithms
-Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
--	Kruskal's Algorithm: Minimum Cost to Connect All Points
--	Dijkstra's Algorithm: Cheapest Flights Within K Stops
--	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
--	Bellman Ford: Network Delay Time
 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
