@@ -224,7 +224,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	[297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 -	[114: Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 -	[113: Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
--	129: Sum Root to Leaf Numbers
+-	[129: Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
 -	107: Binary Tree Level Order Traversal II
 -	988: Smallest String Starting from Leaf
 -	1080: Insufficient Nodes in Root to Leaf
