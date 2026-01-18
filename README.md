@@ -258,6 +258,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[106: Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 -	654: Maximum Binary Tree
 ### Binary Search Tree
+- [108: Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 - [700: Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 -	[701: Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 -	[450: Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
