@@ -57,8 +57,8 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 -	[48: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 -	[54: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 -	[73: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
--	733: Flood Fill
--	200: Number of Islands
+-	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17-graphs)
+-	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17-graphs)
 -	130: Surrounded Regions
 -	289: Game of Life
 
@@ -241,7 +241,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 -	1026: Maximum Difference Between Node and Ancestor
 -	1123: LCA of Deepest Leaves
 -	1483: Kth Ancestor of a Tree Node
-### Breadth First Search (Level Order Traversal)
+### Breadth First Search (Level Order Traversal) (Uses Queue)
 Perfect for traversing a tree level-by-level, providing a comprehensive overview of all nodes.
 -	[102: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 -	[103: Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
@@ -271,6 +271,14 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	530: Minimum Absolute Difference in BST
 
 ## 17.	Graphs
+### Depth First Search (Uses Recursion)
+- [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
+- [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
+- [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
+
+### Breadth First Search (Level Order Traversal) (Uses Queue)
+- [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+
 -	133: Clone Graph
 ### Topological Sort
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
@@ -351,7 +359,6 @@ Description: It involves a sequence that needs to be divided into partitions in 
 ## 9.	Breadth First Search (BFS)
 Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
 -	Shortest Path in Binary Matrix
--	994 Rotting Oranges
 -	127 Word Ladder
 -	As Far From Land as Possible
 
