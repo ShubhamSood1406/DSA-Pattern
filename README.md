@@ -57,8 +57,8 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 -	[48: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 -	[54: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 -	[73: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
--	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17-graphs)
--	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17-graphs)
+-	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graphs)
+-	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graphs)
 -	130: Surrounded Regions
 -	289: Game of Life
 
