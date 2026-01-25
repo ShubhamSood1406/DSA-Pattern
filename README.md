@@ -57,8 +57,8 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 -	[48: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 -	[54: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 -	[73: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
--	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graphs)
--	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graphs)
+-	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graph)
+-	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graph)
 -	130: Surrounded Regions
 -	289: Game of Life
 
@@ -270,7 +270,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[938: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 -	530: Minimum Absolute Difference in BST
 
-## 17.	Graphs
+## 17.	Graph
 ### Depth First Search (Uses Recursion)
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
