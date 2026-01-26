@@ -275,7 +275,6 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
-
 ### Breadth First Search (Level Order Traversal) (Uses Queue)
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
