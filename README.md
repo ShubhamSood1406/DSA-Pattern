@@ -272,15 +272,17 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 
 ## 17.	Graph
 ### Depth First Search (Uses Recursion)
+This pattern allows you to traverse a tree or graph using depth as the main factor. It comes handy for Path finding etc. 
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 ### Breadth First Search (Level Order Traversal) (Uses Queue)
+Perfect for traversing a graph level-by-level, providing a comprehensive overview of all nodes. It comes handy when have to find Shortest Path, Minimum steps, Spread etc.
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 
--	133: Clone Graph
+133: Clone Graph
 ### Topological Sort
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
 -	Course Schedule
