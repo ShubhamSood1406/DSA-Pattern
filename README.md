@@ -277,7 +277,9 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 
 ### Breadth First Search (Level Order Traversal) (Uses Queue)
+- [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+- [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 
 -	133: Clone Graph
 ### Topological Sort
