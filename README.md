@@ -59,7 +59,7 @@ Problems involving 2D arrays (matrices) are often solved using row-column traver
 -	[73: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 -	200: Number of Islands [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graph)
 -	733: Flood Fill [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graph)
--	130: Surrounded Regions
+-	130: Surrounded Regions [(In Graph Section)](https://github.com/ShubhamSood1406/DSA-Pattern/blob/master/README.md#17graph)
 -	289: Game of Life
 
 ## 6.	Merge Intervals / Overlapping Intervals
@@ -276,6 +276,7 @@ This pattern allows you to traverse a tree or graph using depth as the main fact
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
+-	[130: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
 ### Breadth First Search (Level Order Traversal) (Uses Queue)
 Perfect for traversing a graph level-by-level, providing a comprehensive overview of all nodes. It comes handy when have to find Shortest Path, Minimum steps, Spread etc.
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
