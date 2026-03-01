@@ -282,6 +282,7 @@ Perfect for traversing a graph level-by-level, providing a comprehensive overvie
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
+- [785: Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
 
 133: Clone Graph
 ### Topological Sort
