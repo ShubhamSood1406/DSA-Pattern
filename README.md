@@ -291,9 +291,9 @@ Description: Topological sorting is useful for tasks that require dependency res
 - [Topological Sort using BFS - Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
 -	[207: Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 - [210: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+-	[269: Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 -	Strange Printer II
 -	Sequence Reconstruction
--	Alien Dictionary
 ### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 -	Number of Operations to Make Network Connected
