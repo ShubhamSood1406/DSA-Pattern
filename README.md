@@ -289,8 +289,8 @@ Perfect for traversing a graph level-by-level, providing a comprehensive overvie
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
 - [Topological Sort using DFS](https://www.geeksforgeeks.org/dsa/topological-sort-using-dfs/)
 - [Topological Sort using BFS - Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
--	Course Schedule
-- 210: Course Schedule II
+-	[207: Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+- [210: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 -	Strange Printer II
 -	Sequence Reconstruction
 -	Alien Dictionary
