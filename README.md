@@ -272,19 +272,20 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 
 ## 17.	Graph
 ### Depth First Search (Uses Recursion)
-This pattern allows you to traverse a tree or graph using depth as the main factor. It comes handy for Path finding etc. 
+DFS explores as far as possible along a branch before backtracking. It's useful for pathfinding, connected components etc.
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
--	[130: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+-	[130: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) / [1020: Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 - [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-in-a-graph/)
 - 133: Clone Graph
 ### Breadth First Search (Level Order Traversal) (Uses Queue)
-Perfect for traversing a graph level-by-level, providing a comprehensive overview of all nodes. It comes handy when have to find Shortest Path, Minimum steps, Spread etc.
+BFS explores nodes level by level using a queue, providing a comprehensive overview of all nodes. It comes handy when have to find Shortest Path, Minimum steps, Spread etc.
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [785: Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
+- [127: Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 ### Topological Sort
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
 - [Topological Sort using DFS](https://www.geeksforgeeks.org/dsa/topological-sort-using-dfs/)
@@ -306,6 +307,14 @@ Description: Advanced graph algorithms are used to solve complex problems involv
 -	Dijkstra's Algorithm: Cheapest Flights Within K Stops
 -	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
 -	Bellman Ford: Network Delay Time
+
+
+## 10.	Depth First Search (DFS)
+Description: DFS explorefs as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
+-	Number of Closed Islands
+-	Coloring a Border
+-	Shortest Time: Time Needed to Inform All Employees
+-	Cyclic Find: Find Eventual Safe States
 
 ## 18.	Dynamic Programming
 ### Take / Not Take (DP)
@@ -362,20 +371,6 @@ Description: It involves a sequence that needs to be divided into partitions in 
 -	312 Burst Balloons
 -	Minimum Cost to Cut a Stick
 -	Palindrome Partitioning II
-
-## 9.	Breadth First Search (BFS)
-Description: BFS explores nodes level by level using a queue. It is particularly useful for shortest path problems.
--	Shortest Path in Binary Matrix
--	127 Word Ladder
--	As Far From Land as Possible
-
-## 10.	Depth First Search (DFS)
-Description: DFS explores as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
--	Number of Closed Islands
--	Coloring a Border
--	DFS from Boundary: Number of Enclaves
--	Shortest Time: Time Needed to Inform All Employees
--	Cyclic Find: Find Eventual Safe States
 
 ## 22.	Design Data Structure
 Description: It involves building custom data structures to efficiently handle specific operations, like managing data access, updates, and memory usage.
