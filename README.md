@@ -283,6 +283,7 @@ DFS explores as far as possible along a branch before backtracking. It's useful 
 BFS explores nodes level by level using a queue, providing a comprehensive overview of all nodes. It comes handy when have to find Shortest Path, Minimum steps, Spread etc.
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/dsa/detect-cycle-undirected-graph/)
 - [994: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+- [1091: Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
 - [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [785: Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
 - [127: Word Ladder](https://leetcode.com/problems/word-ladder/description/)
