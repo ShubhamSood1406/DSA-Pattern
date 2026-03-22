@@ -298,7 +298,7 @@ Description: Topological sorting is useful for tasks that require dependency res
 -	Sequence Reconstruction
 ### Shortest Path
 #### [Dijkstra's Algorithm](https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/)
-- Cheapest Flights Within K Stops
+- [787: Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 ### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 -	Number of Operations to Make Network Connected
