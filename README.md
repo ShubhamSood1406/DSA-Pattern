@@ -287,7 +287,8 @@ BFS explores nodes level by level using a queue, providing a comprehensive overv
 - [542: 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [785: Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
 - [127: Word Ladder](https://leetcode.com/problems/word-ladder/description/)
-### Topological Sort
+### Graph Algorithms
+#### Topological Sort
 Description: Topological sorting is useful for tasks that require dependency resolution (InDegree) in directed acyclic graphs (DAGs).
 - [Topological Sort using DFS](https://www.geeksforgeeks.org/dsa/topological-sort-using-dfs/)
 - [Topological Sort using BFS - Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
@@ -296,10 +297,15 @@ Description: Topological sorting is useful for tasks that require dependency res
 -	[269: Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 -	Strange Printer II
 -	Sequence Reconstruction
-### Shortest Path
 #### [Dijkstra's Algorithm](https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+Description: Algorithm to find Single Source Shortest Path in a positive edge weight graph.
 - [787: Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
-### Union Find (Disjoint Set)
+- [743: Network Delay Time](https://leetcode.com/problems/network-delay-time)
+#### [Bellman Ford Algorithm](https://www.geeksforgeeks.org/dsa/bellman-ford-algorithm-dp-23/)
+Description: Algorithm to find Single Source Shortest Path in a negative edge weight graph. Useful to detect negative cycle in graph.
+#### [Floyd Warshal Algorithm](https://www.geeksforgeeks.org/dsa/floyd-warshall-algorithm-dp-16/)
+Description: Algorithm to find Shortest paths between all pairs of vertices.
+# Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 -	Number of Operations to Make Network Connected
 -	Redundant Connection
