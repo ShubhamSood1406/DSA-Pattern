@@ -308,7 +308,7 @@ Description: Algorithm to find Shortest paths between all pairs of vertices.
 #### Minimum Spanning Tree
 Description: MST is a subset of edges from a connected, undirected graph that connects all vertices with the minimum possible edge weight, without forming any cycles.
 - [Prim's Algorithm](https://www.geeksforgeeks.org/dsa/prims-minimum-spanning-tree-mst-greedy-algo-5/)
-- [Kruskal's Algorithm (Uses Disjoint Set concept)] (https://www.geeksforgeeks.org/dsa/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+- [Kruskal's Algorithm (Uses Disjoint Set concept)](https://www.geeksforgeeks.org/dsa/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 #### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 - [Disjoint Set (Union by Rank and Path Compression)](https://www.geeksforgeeks.org/dsa/union-by-rank-and-path-compression-in-union-find-algorithm/)
