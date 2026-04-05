@@ -305,6 +305,9 @@ Description: Algorithm to find Single Source Shortest Path in a positive edge we
 Description: Algorithm to find Single Source Shortest Path in a negative edge weight graph. Useful to detect negative cycle in graph.
 #### [Floyd Warshal Algorithm](https://www.geeksforgeeks.org/dsa/floyd-warshall-algorithm-dp-16/)
 Description: Algorithm to find Shortest paths between all pairs of vertices.
+#### Minimum Spanning Tree
+Description: MST is a subset of edges from a connected, undirected graph that connects all vertices with the minimum possible edge weight, without forming any cycles.
+[Prim's Algorithm](https://www.geeksforgeeks.org/dsa/prims-minimum-spanning-tree-mst-greedy-algo-5/)
 # Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 -	Number of Operations to Make Network Connected
