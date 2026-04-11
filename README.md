@@ -274,6 +274,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 ### Depth First Search (Uses Recursion)
 DFS explores as far as possible along a branch before backtracking. It's useful for pathfinding, connected components etc.
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
+- [1319: Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
 - [200: Number of Islands](https://leetcode.com/problems/number-of-islands/description/) (Connected Component in Matrix)
 - [733: Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 -	[130: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) / [1020: Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
@@ -312,7 +313,6 @@ Description: MST is a subset of edges from a connected, undirected graph that co
 #### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 - [Disjoint Set (Union by Rank and Path Compression)](https://www.geeksforgeeks.org/dsa/union-by-rank-and-path-compression-in-union-find-algorithm/)
--	Number of Operations to Make Network Connected
 -	Redundant Connection
 -	Accounts Merge
 -	Satisfiability of Equality Equations
