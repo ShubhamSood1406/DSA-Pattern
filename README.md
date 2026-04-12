@@ -295,6 +295,7 @@ Description: Topological sorting is useful for tasks that require dependency res
 - [Topological Sort using BFS - Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
 -	[207: Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 - [210: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+- [802: Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
 -	[269: Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 -	Strange Printer II
 -	Sequence Reconstruction
@@ -329,7 +330,6 @@ Description: DFS explorefs as far as possible along a branch before backtracking
 -	Number of Closed Islands
 -	Coloring a Border
 -	Shortest Time: Time Needed to Inform All Employees
--	Cyclic Find: Find Eventual Safe States
 
 ## 18.	Dynamic Programming
 ### Take / Not Take (DP)
