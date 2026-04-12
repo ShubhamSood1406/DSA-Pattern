@@ -313,8 +313,8 @@ Description: MST is a subset of edges from a connected, undirected graph that co
 #### Union Find (Disjoint Set)
 Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 - [Disjoint Set (Union by Rank and Path Compression)](https://www.geeksforgeeks.org/dsa/union-by-rank-and-path-compression-in-union-find-algorithm/)
--	Redundant Connection
--	Accounts Merge
+-	[684: Redundant Connection](https://leetcode.com/problems/redundant-connection)
+-	[721: Accounts Merge](https://leetcode.com/problems/accounts-merge)
 -	Satisfiability of Equality Equations
 ### Graph Algorithms
 Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
