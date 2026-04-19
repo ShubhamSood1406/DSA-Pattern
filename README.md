@@ -270,7 +270,7 @@ Perfect for traversing a tree level-by-level, providing a comprehensive overview
 -	[938: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 -	530: Minimum Absolute Difference in BST
 
-## 17.	Graph
+## 17. Graph
 ### Depth First Search (Uses Recursion)
 DFS explores as far as possible along a branch before backtracking. It's useful for pathfinding, connected components etc.
 - [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) (Connected Component in Graph)
@@ -317,24 +317,11 @@ Description: Union-Find (or Disjoint Set) is used to solve problems involving co
 -	[684: Redundant Connection](https://leetcode.com/problems/redundant-connection)
 -	[721: Accounts Merge](https://leetcode.com/problems/accounts-merge)
 -	Satisfiability of Equality Equations
-### Graph Algorithms
-Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
--	Kruskal's Algorithm: Minimum Cost to Connect All Points
--	Dijkstra's Algorithm: Cheapest Flights Within K Stops
--	Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
--	Bellman Ford: Network Delay Time
 
-
-## 10.	Depth First Search (DFS)
-Description: DFS explorefs as far as possible along a branch before backtracking. It's useful for graph traversal, pathfinding, and connected components.
--	Number of Closed Islands
--	Coloring a Border
--	Shortest Time: Time Needed to Inform All Employees
-
-## 18.	Dynamic Programming
+## 18. Dynamic Programming
 ### Take / Not Take (DP)
 Description: Solve optimization problems like selecting items with the max/min value under certain constraints.
--	70 Climbing Stairs
+-	[70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 -	House Robber II
 -	Target Sum
 -	416 Partition Equal Subset Sum
