@@ -320,7 +320,7 @@ Description: Union-Find (or Disjoint Set) is used to solve problems involving co
 
 ## 18. Dynamic Programming
 ### Take / Not Take (DP)
-Description: Solve optimization problems like selecting items with the max/min value under certain constraints.
+Description: Solve optimization problems like try all possible ways on something OR selecting items with the max/min value under certain constraints.
 -	[70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 -	House Robber II
 -	Target Sum
