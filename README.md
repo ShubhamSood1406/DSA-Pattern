@@ -323,7 +323,7 @@ Description: Union-Find (or Disjoint Set) is used to solve problems involving co
 Description: Solve optimization problems like try all possible ways on something OR selecting items with the max/min value under certain constraints.
 -	[70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 -	[198: House Robber](https://leetcode.com/problems/house-robber)
--	House Robber II
+-	[213: House Robber II](https://leetcode.com/problems/house-robber-ii)
 -	Target Sum
 -	416 Partition Equal Subset Sum
 -	Ones and Zeroes
