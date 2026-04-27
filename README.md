@@ -297,8 +297,8 @@ Description: Topological sorting is useful for tasks that require dependency res
 - [210: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 - [802: Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
 -	[269: Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
--	Strange Printer II
--	Sequence Reconstruction
+-	1591: Strange Printer II
+-	444: Sequence Reconstruction
 #### [Dijkstra's Algorithm](https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 Description: Algorithm to find Single Source Shortest Path in a positive edge weight graph.
 - [787: Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
@@ -316,7 +316,7 @@ Description: Union-Find (or Disjoint Set) is used to solve problems involving co
 - [Disjoint Set (Union by Rank and Path Compression)](https://www.geeksforgeeks.org/dsa/union-by-rank-and-path-compression-in-union-find-algorithm/)
 -	[684: Redundant Connection](https://leetcode.com/problems/redundant-connection)
 -	[721: Accounts Merge](https://leetcode.com/problems/accounts-merge)
--	Satisfiability of Equality Equations
+-	990: Satisfiability of Equality Equations
 
 ## 18. Dynamic Programming
 ### Take/Not-Take (1D DP)
@@ -324,16 +324,16 @@ Description: Solve optimization problems like try all possible ways on something
 -	[70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 -	[198: House Robber](https://leetcode.com/problems/house-robber)
 -	[213: House Robber II](https://leetcode.com/problems/house-robber-ii)
--	Target Sum
--	416 Partition Equal Subset Sum
--	Ones and Zeroes
--	Last Stone Weight II
+-	494: Target Sum
+-	416: Partition Equal Subset Sum
+-	474: Ones and Zeroes
+-	1049: Last Stone Weight II
 ### DP on Grids (2D/3D DP)
 Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
 - [62: Unique Paths](https://leetcode.com/problems/unique-paths)
 -	[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 -	[64: Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
--	Triangle
+-	[120: Triangle](https://leetcode.com/problems/triangle)
 -	Minimum Falling Path Sum
 -	Maximal Square
 -	Cherry Pickup
