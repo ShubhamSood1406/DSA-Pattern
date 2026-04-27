@@ -319,7 +319,7 @@ Description: Union-Find (or Disjoint Set) is used to solve problems involving co
 -	Satisfiability of Equality Equations
 
 ## 18. Dynamic Programming
-### Take / Not Take (DP)
+### Take/Not-Take (1D DP)
 Description: Solve optimization problems like try all possible ways on something OR selecting items with the max/min value under certain constraints.
 -	[70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 -	[198: House Robber](https://leetcode.com/problems/house-robber)
@@ -328,6 +328,16 @@ Description: Solve optimization problems like try all possible ways on something
 -	416 Partition Equal Subset Sum
 -	Ones and Zeroes
 -	Last Stone Weight II
+### DP on Grids (2D/3D DP)
+Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
+- [62: Unique Paths](https://leetcode.com/problems/unique-paths)
+-	[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
+-	[64: Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
+-	Triangle
+-	Minimum Falling Path Sum
+-	Maximal Square
+-	Cherry Pickup
+-	Dungeon Game
 ### Infinite Supply (DP)
 Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
 -	322 Coin Change
@@ -341,15 +351,6 @@ Description: It involves finding the longest subsequence of a given sequence whe
 -	Maximum Length of Pair Chain
 -	Number of LIS
 -	Longest String Chain
-### DP on Grids
-Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
--	Unique Paths II
--	Minimum Path Sum
--	Triangle
--	Minimum Falling Path Sum
--	Maximal Square
--	Cherry Pickup
--	Dungeon Game
 ### DP on Strings
 Description: It involves two strings, focusing on what happens when the last characters of the two substrings are the same.
 -	1143 Longest Common Subsequence
