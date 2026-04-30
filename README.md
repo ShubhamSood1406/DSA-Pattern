@@ -334,7 +334,7 @@ Description: Dynamic Programming on matrices involves solving problems that can 
 -	[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 -	[64: Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 -	[120: Triangle](https://leetcode.com/problems/triangle)
--	Minimum Falling Path Sum
+-	[931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 -	Maximal Square
 -	Cherry Pickup
 -	Dungeon Game
