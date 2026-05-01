@@ -325,7 +325,6 @@ Description: Solve optimization problems like try all possible ways on something
 -	[198: House Robber](https://leetcode.com/problems/house-robber)
 -	[213: House Robber II](https://leetcode.com/problems/house-robber-ii)
 -	494: Target Sum
--	416: Partition Equal Subset Sum
 -	474: Ones and Zeroes
 -	1049: Last Stone Weight II
 ### DP on Grids (2D/3D DP)
@@ -338,6 +337,9 @@ Description: Dynamic Programming on matrices involves solving problems that can 
 -	Maximal Square
 -	Cherry Pickup
 -	Dungeon Game
+### DP on Subsequences
+- [Subset Sum Equals to Target / Target Sum Subset](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25)
+- [416: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 ### Infinite Supply (DP)
 Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
 -	322 Coin Change
