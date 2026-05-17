@@ -333,20 +333,23 @@ Description: Dynamic Programming on matrices involves solving problems that can 
 -	[64: Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 -	[120: Triangle](https://leetcode.com/problems/triangle)
 -	[931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
--	Maximal Square
--	Cherry Pickup
--	Dungeon Game
+-	221:Maximal Square
+-	741: Cherry Pickup
+-	174: Dungeon Game
 ### DP on Subsequences
 - [Subset Sum Equals to Target / Target Sum Subset](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25)
 - [416: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 - [Count Subset with Sum Equals to Target](https://www.geeksforgeeks.org/dsa/count-of-subsets-with-sum-equal-to-x/)
 - [494: Target Sum](https://leetcode.com/problems/target-sum)
+- [0/1 Knapsack](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
 ### Infinite Supply (DP)
-Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
--	322 Coin Change
--	Coin Change II
--	Perfect Squares
--	Minimum Cost For Tickets
+Description: Similar to the subsequences problem like 0/1 knapsack, but items can be chosen multiple times.
+-	[322: Coin Change](https://leetcode.com/problems/coin-change)
+-	[518: Coin Change II](https://leetcode.com/problems/coin-change-ii)
+-	[Unbounded Knapsack](https://www.geeksforgeeks.org/dsa/unbounded-knapsack-repetition-items-allowed/)
+-	[Rod Cutting](https://www.geeksforgeeks.org/dsa/cutting-a-rod-dp-13/)
+-	279: Perfect Squares
+-	983:Minimum Cost For Tickets
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
 -	300 Longest Increasing Subsequence
