@@ -349,7 +349,7 @@ Description: Similar to the subsequences problem like 0/1 knapsack, but items ca
 -	[Unbounded Knapsack](https://www.geeksforgeeks.org/dsa/unbounded-knapsack-repetition-items-allowed/)
 -	[Rod Cutting](https://www.geeksforgeeks.org/dsa/cutting-a-rod-dp-13/)
 -	279: Perfect Squares
--	983:Minimum Cost For Tickets
+-	983: Minimum Cost For Tickets
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
 -	300 Longest Increasing Subsequence
