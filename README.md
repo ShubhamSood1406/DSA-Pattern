@@ -350,6 +350,18 @@ Description: Similar to the subsequences problem like 0/1 knapsack, but items ca
 -	[Rod Cutting](https://www.geeksforgeeks.org/dsa/cutting-a-rod-dp-13/)
 -	279: Perfect Squares
 -	983: Minimum Cost For Tickets
+### DP on Strings
+Description: It involves two strings, focusing on what happens when the last characters of the two substrings are the same.
+-	[1143: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+-	[Longest Common Substring](https://www.geeksforgeeks.org/dsa/longest-common-substring-dp-29)
+-	[516: Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
+-	[1092: Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
+-	115: Distinct Subsequences
+-	72: Edit Distance
+-	44: Wildcard Matching
+-	647: Palindromic Substrings
+-	5: Longest Palindromic Substring
+-	712: Minimum ASCII Delete Sum for Two Strings
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
 -	300 Longest Increasing Subsequence
@@ -357,18 +369,7 @@ Description: It involves finding the longest subsequence of a given sequence whe
 -	Maximum Length of Pair Chain
 -	Number of LIS
 -	Longest String Chain
-### DP on Strings
-Description: It involves two strings, focusing on what happens when the last characters of the two substrings are the same.
--	1143 Longest Common Subsequence
--	Longest Palindromic Subsequence
--	Palindromic Substrings
--	Longest Palindromic Substrings
--	Edit Distance
--	Minimum ASCII Delete Sum for Two Strings
--	Distinct Subsequences
--	Shortest Common Supersequence
--	Wildcard Matching
-### DP on Stocks
+## DP on Stocks
 Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
 -	Buy and Sell Stocks II
 -	Buy and Sell Stocks III
