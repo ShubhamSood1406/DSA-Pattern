@@ -356,9 +356,9 @@ Description: It involves two strings, focusing on what happens when the last cha
 -	[Longest Common Substring](https://www.geeksforgeeks.org/dsa/longest-common-substring-dp-29)
 -	[516: Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
 -	[1092: Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
--	115: Distinct Subsequences
--	72: Edit Distance
--	44: Wildcard Matching
+-	[115: Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)
+-	[72: Edit Distance](https://leetcode.com/problems/edit-distance)
+-	[44: Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
 -	647: Palindromic Substrings
 -	5: Longest Palindromic Substring
 -	712: Minimum ASCII Delete Sum for Two Strings
