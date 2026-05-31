@@ -362,6 +362,14 @@ Description: It involves two strings, focusing on what happens when the last cha
 -	647: Palindromic Substrings
 -	5: Longest Palindromic Substring
 -	712: Minimum ASCII Delete Sum for Two Strings
+## DP on Stocks
+Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
+- [121: Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) (1 Transaction allowed)
+-	[122: Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) (Multiple Transaction allowed)
+-	[123: Buy and Sell Stocks III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) (2 Transaction allowed)
+-	[188: Buy and Sell Stocks IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) (K Transaction allowed)
+-	[309: Buy and Sell Stocks with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
+-	[714: Buy and Sell Stocks with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
 -	300 Longest Increasing Subsequence
@@ -369,13 +377,6 @@ Description: It involves finding the longest subsequence of a given sequence whe
 -	Maximum Length of Pair Chain
 -	Number of LIS
 -	Longest String Chain
-## DP on Stocks
-Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
--	Buy and Sell Stocks II
--	Buy and Sell Stocks III
--	Buy and Sell Stocks IV
--	Buy and Sell Stocks with Cooldown
--	Buy and Sell Stocks with Transaction Fee
 ### Partition DP (MCM - Matrix Chain Multiplication)
 Description: It involves a sequence that needs to be divided into partitions in an optimal way.
 -	Partition Array for Maximum Sum
