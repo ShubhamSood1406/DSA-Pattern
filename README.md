@@ -372,10 +372,11 @@ Description: It focuses on maximizing profit from buying and selling stocks over
 -	[714: Buy and Sell Stocks with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
 ### Longest Increasing Subsequence
 Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order.
--	300 Longest Increasing Subsequence
+-	[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
+-	[Longest Bitonic Subsequence](https://www.geeksforgeeks.org/dsa/longest-bitonic-subsequence-dp-15)
+-	[673: Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)
 -	Largest Divisible Subset
 -	Maximum Length of Pair Chain
--	Number of LIS
 -	Longest String Chain
 ### Partition DP (MCM - Matrix Chain Multiplication)
 Description: It involves a sequence that needs to be divided into partitions in an optimal way.
