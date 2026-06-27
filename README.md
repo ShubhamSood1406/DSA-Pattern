@@ -380,10 +380,11 @@ Description: It involves finding the longest subsequence of a given sequence whe
 -	Longest String Chain
 ### Partition DP (MCM - Matrix Chain Multiplication)
 Description: It involves a sequence that needs to be divided into partitions in an optimal way.
+- [Matrix Chain Multiplication](https://www.geeksforgeeks.org/dsa/matrix-chain-multiplication-dp-8)
+- [312: Burst Balloons](https://leetcode.com/problems/burst-balloons)
+- [132: Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)
 -	Partition Array for Maximum Sum
--	312 Burst Balloons
 -	Minimum Cost to Cut a Stick
--	Palindrome Partitioning II
 
 ## 22.	Design Data Structure
 Description: It involves building custom data structures to efficiently handle specific operations, like managing data access, updates, and memory usage.
