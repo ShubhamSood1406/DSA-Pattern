@@ -29,7 +29,7 @@
 - [205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) (Hash Table)
 - [796: Rotate String](https://leetcode.com/problems/rotate-string/description/)
 - [242: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) (Hash Table)
-- [46:Group Anagrams](https://leetcode.com/problems/group-anagrams) (Hash Table, Sorting)
+- [49: Group Anagrams](https://leetcode.com/problems/group-anagrams) (Hash Table, Sorting)
 - [451: Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) (Hash Table, Sorting)
 - [13: Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) (Hash Table)
 
